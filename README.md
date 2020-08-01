@@ -1,6 +1,6 @@
-<h2>Dictyostelium discoideum Electroporator</h2>
-<p><strong>Abstract:&nbsp;</strong>Custom-made, inexpensive and open-source electroporation apparatus for Dictyostelium discoideum with all functional modules and peripherals.</p>
-<p><strong>Description:&nbsp;</strong>Electroporation to introduce DNA into cells is a common technique in genetic engineering. Dictyostelium discoideum is a well-established eukaryotic model organism that is frequently genetically modified (transformed). We present here an electroporator capable of high efficiency D. discoideum transformation. Our electroporator consists of a high voltage power supply, pulse generator circuit and cell sample cuvette holder. The power supply is programmed to deliver desired voltage, which when activated by a double-pole, double-throw switch (DPDT below) charges the capacitor. Further switching allows the charged capacitor to deliver a precise, consistent exponential decay wave of the proper duration to the cuvette containing a D. discoideum cell and DNA mixture. The high-voltage circuit is housed in an electrically insulated enclosure - we chose a plastic electrical junction box with appropriate holes for switch mounting and cables to pass. A cuvette holder results from the 3D print of our stereolithography (.stl) CAD file. An electrophoresis chamber cover with cables was used as an adapter for banana plug/jack connections to the power supply. Integral in development and testing was an inexpensive 1,000-volt digital multimeter. To provide hands-free monitoring of discharge circuit voltage, we connected the multimeter to the cuvette holder with 24-inch male-male banana test leads.</p>
+<h2><em>Dictyostelium</em><em>discoideum</em> Electroporator</h2>
+<p><strong>Abstract:&nbsp;</strong>Custom-made, inexpensive and open-source electroporation apparatus for <em>Dictyostelium discoideum</em> with all functional modules and peripherals.</p>
+<p><strong>Description:&nbsp;</strong>Electroporation to introduce DNA into cells is a common technique in genetic engineering. <em>Dictyostelium discoideum</em> is a well-established eukaryotic model organism that is frequently genetically modified (transformed). We present here an electroporator capable of high efficiency <em>D. discoideum</em> transformation. Our electroporator consists of a high voltage power supply, pulse generator circuit and cell sample cuvette holder. The power supply is programmed to deliver desired voltage, which when activated by a double-pole, double-throw switch (DPDT below) charges the capacitor. Further switching allows the charged capacitor to deliver a precise, consistent exponential decay wave of the proper duration to the cuvette containing a <em>D. discoideum</em> cell and DNA mixture. The high-voltage circuit is housed in an electrically insulated enclosure - we chose a plastic electrical junction box with appropriate holes for switch mounting and cables to pass. A cuvette holder results from the 3D print of our stereolithography (.stl) CAD file. An electrophoresis chamber cover with cables was used as an adapter for banana plug/jack connections to the power supply. Integral in development and testing was an inexpensive 1,000-volt digital multimeter. To provide hands-free monitoring of discharge circuit voltage, we connected the multimeter to the cuvette holder with 24-inch male-male banana test leads.</p>
 <p><strong>License:&nbsp;</strong>CERN Open Hardware License</p>
 <p><strong>Requires:</strong></p>
 <ul>
@@ -43,8 +43,8 @@
 <p><strong>Step&nbsp;13.&nbsp;</strong>Attach enclosure cover.</p>
 <p>Cuvette Holder</p>
 <p><strong>Description:&nbsp;</strong>The cuvette holder provides the delivery vehicle for the electric field that causes electroporation. It is also notable that the cuvette holder was designed to keep inward pressure on the plug ends that contact the cuvette. It was an important consideration in our design to provide hands-free electroporation and the built-in spring-like nature of the resulting connection ensures constant contact - even when like charges build up on each plug and its corresponding cuvette contact - a force that opposes contact. It is also notable that we chose stackable banana plugs so that we could tandem a 1,000V multimeter to the cuvette holder - especially useful during pre-electroporation functions check.</p>
-<p><strong><u><a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/blob/master/Cuvette%20Holder.stl">File:&nbsp;Cuvette Holder.stl</a></u></strong></p>
-<p><strong><u><a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/blob/master/Cuvette%20Holder.dwg">File:&nbsp;Cuvette Holder.dwg</a></u></strong></p>
+<p><a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/blob/master/Cuvette%20Holder.stl"><strong>File:&nbsp;Cuvette Holder.stl</strong></a></p>
+<p><a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/blob/master/Cuvette%20Holder.dwg"><strong>File:&nbsp;Cuvette Holder.dwg</strong></a></p>
 <p><strong>Requires:</strong></p>
 <ul>
 <li><u>3D printed cuvette holder&nbsp;<strong>x&nbsp;1</strong></u></li>
@@ -130,8 +130,8 @@
 <p><strong>Supplier catalog #:&nbsp;</strong>44740</p>
 <p><strong>URL:&nbsp;</strong><a href="https://www.lowes.com/pd/Sigma-Electric-ProConnex-3-8-in-Snap-in-Connector-Conduit-Fitting/3151125">www.lowes.com</a></p>
 <p>Part:&nbsp;3D printed cuvette holder</p>
-<p><strong><u><a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/blob/master/Cuvette%20Holder.stl">File:&nbsp;Cuvette Holder.stl</a></u></strong></p>
-<p><strong><u><a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/blob/master/Cuvette%20Holder.dwg">File:&nbsp;Cuvette Holder.dwg</a></u></strong></p>
+<p><a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/blob/master/Cuvette%20Holder.stl"><strong>File:&nbsp;Cuvette Holder.stl</strong></a></p>
+<p><a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/blob/master/Cuvette%20Holder.dwg"><strong>File:&nbsp;Cuvette Holder.dwg</strong></a></p>
 <p>Authors</p>
 <table>
 <thead>
@@ -233,7 +233,7 @@
 <p>2157693</p>
 </td>
 <td>
-<p><u><a href="http://www.jameco.com">www.jameco.com</a></u></p>
+<p><a href="http://www.jameco.com">www.jameco.com</a></p>
 </td>
 </tr>
 <tr>
