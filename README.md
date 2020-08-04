@@ -1,10 +1,3 @@
-<style>
-  img {
-    width: 100%;
-  }
-  h2 {
-    color: white;
-  }
 
 <h2><em>Dictyostelium</em> <em>discoideum</em> Electroporator</h2>
 <p><strong>Abstract:&nbsp;</strong>Custom-made, inexpensive and open-source electroporation apparatus for <em>Dictyostelium discoideum</em> with all functional modules and peripherals.</p>
