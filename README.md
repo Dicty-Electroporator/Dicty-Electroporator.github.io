@@ -90,7 +90,7 @@
 <ul>
 <li>3D printed cuvette holder&nbsp;<strong>x&nbsp;1</strong></li>
 </ul>
-<p>Assembly instruction</p>
+<h4><p>Assembly instruction</p></h4>
 <p>&nbsp;</p>
 ![](figs/cuv%201.png)
 ![](figs/cuv%201.jpg)
