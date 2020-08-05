@@ -8,7 +8,6 @@
 <li>Pulse Generator&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Cuvette Holder&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Multimeter&nbsp;<strong>x&nbsp;1,&nbsp;</strong>1KV DC Power supply (e.g., Bio-Rad PowerPac 1000)&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Red banana plug test lead - 24 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Black banana plug test lead - 24 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Horizontal Gel Electrophoresis System&nbsp;<strong>x&nbsp;1</strong></li>
 </ul>
 <h3><p>Assembly instruction</p></h3>
-![](figs/encl%201.png)
 <p><strong>Step&nbsp;1.&nbsp;</strong>Plug electroporator power supply leads into gel electrophoresis lid.</p>
 <p><strong>Step&nbsp;2.&nbsp;</strong>Plug electrophoresis lid leads into power supply.</p>
 <p><strong>Step&nbsp;3.&nbsp;</strong>Plug electroporator cuvette leads into cuvette holder.</p>
@@ -25,6 +24,7 @@
 </ul>
 <h4><p>Assembly instruction</p></h4>
 <p>&nbsp;</p>
+![](figs/encl%201.png)
 <p><strong>Step&nbsp;1.&nbsp;</strong>Drill two 22mm holes in any side of the enclosure with centers at 34mm from the exterior bottom and horizontally 46mm apart on center. It might be helpful to label one hole &ldquo;Power supply&rdquo; and the other &ldquo;Cuvette holder&rdquo;.</p>
 <p>&nbsp;</p>
 <p><strong>Step&nbsp;2.&nbsp;</strong>Drill 13mm hole in enclosure lid for switch mounting. Place the hole where hand-switching will be most comfortable.</p>
