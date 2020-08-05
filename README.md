@@ -27,7 +27,7 @@
 ![](figs/encl%202.jpg)
 <p><strong>Step&nbsp;2.&nbsp;</strong>Drill 13mm hole in enclosure lid for switch mounting. Place the hole where hand-switching will be most comfortable.</p>
 <p>&nbsp;</p>
-<h4><p>Pulse Generator</p></h4>
+<h3><p>Pulse Generator</p></h3>
 <p><strong>Description:&nbsp;</strong>Components and configurations of the electrical circuit are described here. For all connections, refer to the circuit diagram and photos of the assembled circuit.</p>
 ![](figs/pgen%201.png)
 ![](figs/pgen%202.jpg)
