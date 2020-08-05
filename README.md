@@ -17,21 +17,18 @@
 <h3><p>Enclosure</p></h3>
 <p><strong>Description:&nbsp;</strong>We chose to purchase a commercially available plastic junction box to enclose our pulse generator circuit. A 13mm hole was drilled into the enclosure cover for the DPDT and 22mm holes were marked and drilled in the enclosure which provided a nice fit for the plastic NM connectors and pass-through cables.</p>
 ![](figs/encl.jpg)
-<p>&nbsp;</p>
 <p><strong>Requires:</strong></p>
 <ul>
 <li>Junction box&nbsp;<strong>x&nbsp;1</strong></li>
 </ul>
 <h4><p>Assembly instruction</p></h4>
-<p>&nbsp;</p>
 ![](figs/encl%201.png)
 <p><strong>Step&nbsp;1.&nbsp;</strong>Drill two 22mm holes in any side of the enclosure with centers at 34mm from the exterior bottom and horizontally 46mm apart on center. It might be helpful to label one hole &ldquo;Power supply&rdquo; and the other &ldquo;Cuvette holder&rdquo;.</p>
-<p>&nbsp;</p>
 ![](figs/encl%202.jpg)
 <p><strong>Step&nbsp;2.&nbsp;</strong>Drill 13mm hole in enclosure lid for switch mounting. Place the hole where hand-switching will be most comfortable.</p>
-<p>Pulse Generator</p>
+<h4><p>Pulse Generator</p></h4>
 <p><strong>Description:&nbsp;</strong>Components and configurations of the electrical circuit are described here. For all connections, refer to the circuit diagram and photos of the assembled circuit.</p>
-<p>&nbsp;</p>
+![](figs/pgen%201.png)
 <p><strong>Requires:</strong></p>
 <ul>
 <li>400 Point solderless breadboard&nbsp;<strong>x&nbsp;2,&nbsp;</strong>Male-Male fixed length jumper wires&nbsp;<strong>x&nbsp;5,&nbsp;</strong>Test Lead Wire 25 ft. red&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Test Lead Wire 25 ft. black&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Male-Male flexible jumper wires&nbsp;<strong>x&nbsp;9,&nbsp;</strong>Capacitor - 25microF&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Red banana plug test lead - 60 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Black banana plug test lead - 60 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Ring Terminals&nbsp;<strong>x&nbsp;4,&nbsp;</strong>Resistor - 1M Ohm&nbsp;<strong>x&nbsp;6,&nbsp;</strong>Resistor - 100k Ohm&nbsp;<strong>x&nbsp;6,&nbsp;</strong>3-Position Screw Terminal Block&nbsp;<strong>x&nbsp;4,&nbsp;</strong>DPDT toggle switch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Plastic NM Connector&nbsp;<strong>x&nbsp;2,&nbsp;</strong>Enclosure&nbsp;<strong>x&nbsp;1</strong></li>
