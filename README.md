@@ -26,14 +26,18 @@
 <p><strong>Step&nbsp;1.&nbsp;</strong>Drill two 22mm holes in any side of the enclosure with centers at 34mm from the exterior bottom and horizontally 46mm apart on center. It might be helpful to label one hole &ldquo;Power supply&rdquo; and the other &ldquo;Cuvette holder&rdquo;.</p>
 ![](figs/encl%202.jpg)
 <p><strong>Step&nbsp;2.&nbsp;</strong>Drill 13mm hole in enclosure lid for switch mounting. Place the hole where hand-switching will be most comfortable.</p>
+<p>&nbsp;</p>
 <h4><p>Pulse Generator</p></h4>
 <p><strong>Description:&nbsp;</strong>Components and configurations of the electrical circuit are described here. For all connections, refer to the circuit diagram and photos of the assembled circuit.</p>
 ![](figs/pgen%201.png)
+![](figs/pgen%202.jpg)
 <p><strong>Requires:</strong></p>
 <ul>
-<li>400 Point solderless breadboard&nbsp;<strong>x&nbsp;2,&nbsp;</strong>Male-Male fixed length jumper wires&nbsp;<strong>x&nbsp;5,&nbsp;</strong>Test Lead Wire 25 ft. red&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Test Lead Wire 25 ft. black&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Male-Male flexible jumper wires&nbsp;<strong>x&nbsp;9,&nbsp;</strong>Capacitor - 25microF&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Red banana plug test lead - 60 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Black banana plug test lead - 60 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Ring Terminals&nbsp;<strong>x&nbsp;4,&nbsp;</strong>Resistor - 1M Ohm&nbsp;<strong>x&nbsp;6,&nbsp;</strong>Resistor - 100k Ohm&nbsp;<strong>x&nbsp;6,&nbsp;</strong>3-Position Screw Terminal Block&nbsp;<strong>x&nbsp;4,&nbsp;</strong>DPDT toggle switch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Plastic NM Connector&nbsp;<strong>x&nbsp;2,&nbsp;</strong>Enclosure&nbsp;<strong>x&nbsp;1</strong></li>
+<li>400 Point solderless breadboard&nbsp;<strong>x&nbsp;2,&nbsp;</strong>Male-Male fixed length jumper wires&nbsp;<strong>x&nbsp;5,&nbsp;</strong>Test Lead Wire 25 ft. red&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Test Lead Wire 25 ft. black&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Male-Male flexible jumper wires&nbsp;<strong>x&nbsp;9,&nbsp;</strong>Capacitor - 25microF&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Red banana plug test lead - 60 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Black banana plug test lead - 60 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Ring Terminals&nbsp;<strong>x&nbsp;4,&nbsp;</strong>Resistor - 1M Ohm&nbsp;<strong>x&nbsp;6,&nbsp;</strong>Resistor - 100k Ohm&nbsp;<strong>x&nbsp;6,&nbsp;</strong>3-Position Screw Terminal Block&nbsp;<strong>x&nbsp;4,&nbsp;</strong>DPDT toggle switch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Plastic NM Connector&nbsp;<strong>x&nbsp;2,&nbsp;</strong>Enclosure&nbsp;
+<strong>x&nbsp;1</strong></li>
 </ul>
-<p>Assembly instruction</p>
+<p>&nbsp;</p>
+<h3><p>Assembly instruction</p></h3>
 <p>&nbsp;</p>
 <p><strong>Step&nbsp;1.&nbsp;</strong>Cut 4 pieces of 18 AWG wire (for the switch) to 30cm lengths and strip approx. 5mm of bare wire from each end. Crimp one end of each wire to a ring terminal.</p>
 <p>&nbsp;</p>
