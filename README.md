@@ -49,26 +49,40 @@
 ![](figs/pgen%20assmb%203.jpg)
 <p><strong>Step&nbsp;3.&nbsp;</strong>Using the 4 pieces of 18 AWG wire with ring terminals from step 1, connect switch terminals 2 and 3 to the outboard ports of one terminal block and 4 and 5 to the outboard ports of another terminal block by inserting paired wires into outside wire cages of terminal blocks, then tighten terminal block screws.</p>
 <p>&nbsp;</p>
+![](figs/pgen%20assmb%204.jpg)
 <p><strong>Step&nbsp;4.&nbsp;</strong>Clip resistor pins and bend at 90-degree angle to fit into breadboard terminals.</p>
 <p>&nbsp;</p>
+![](figs/pgen%20assmb%205.jpg)
 <p><strong>Step&nbsp;5.&nbsp;</strong>Connect six 100K Ohm resistors (R3-R8) in parallel into breadboards using jumper wires as needed to form connections.</p>
 <p>&nbsp;</p>
+![](figs/pgen%20assmb%206.png)
 <p><strong>Step&nbsp;6.&nbsp;</strong>Connect two 1M Ohm resistors (R1 and R2) in series into breadboards using jumper wires as needed to form connections.</p>
 <p>&nbsp;</p>
+![](figs/pgen%20assmb%207.png)
 <p><strong>Step&nbsp;7.&nbsp;</strong>Connect four 1M Ohm resistors (R9-R12) in series. A short jumper wire is also placed on the board as shown (lower right section of breadboard) that will become a link between terminal blocks from steps 2, 3, 9 and 10.</p>
 <p>&nbsp;</p>
+![](figs/pgen%20assmb%208.1.png)
+![](figs/pgen%20assmb%208.2.jpg)
+![](figs/pgen%20assmb%208.3.jpg)
 <p><strong>Step&nbsp;8.&nbsp;</strong>Ensure the capacitor is not charged before handling by measuring voltage across the terminals using the multimeter. Connect three 20cm flexible jumper wires to each pole of capacitor. Note that two leads from each capacitor pole are present. Wire terminals can be crimped around capacitor leads or soldered for establishing a more permanent connection. Attach capacitor leads to breadboard per circuit diagram.</p>
 <p>&nbsp;</p>
+![](figs/pgen%20assmb%209.1.jpg)
+![](figs/pgen%20assmb%209.2.jpg)
 <p><strong>Step&nbsp;9.&nbsp;</strong>Connect terminal blocks from switch leads to breadboard (see step 3).</p>
 <p>&nbsp;</p>
+![](figs/pgen%20assmb%2010.1.jpg)
+![](figs/pgen%20assmb%2010.2.png)
 <p><strong>Step&nbsp;10.&nbsp;</strong>Cut 1 red and 1 black 60 in. test lead in half. Strip cut ends to leave approximately 5mm of bare wire. It might be helpful to tape the two pairs of one red and one black wire together every few centimeters. Pass stripped wire ends through NM plastic connectors about 10cm. Connect terminal blocks to the stripped ends by inserting paired wires into outside wire cages of terminal blocks, then tighten terminal block screws. Push NM plastic connectors into the cable pass-through holes of the enclosure.</p>
 <p>&nbsp;</p>
+![](figs/pgen%20assmb%2011.png)
 <p><strong>Step&nbsp;11.&nbsp;</strong>Pull the terminal block ends of the power supply and cuvette holder cables further through the pass-through holes with only sufficient play to insert the terminal blocks into the appropriate places on the breadboards.</p>
 <p>&nbsp;</p>
+![](figs/pgen%20assmb%2012.png)
 <p><strong>Step&nbsp;12.&nbsp;</strong>Adhere the breadboards and capacitor to the inside base of the enclosure. While we used 2-sided tape, glue could be used for a more permanent solution. Connect power supply and cuvette holder terminal blocks to breadboard.</p>
 <p>&nbsp;</p>
+![](figs/pgen%20assmb%2013.png)
 <p><strong>Step&nbsp;13.&nbsp;</strong>Attach enclosure cover.</p>
-<p>Cuvette Holder</p>
+<h3><p>Cuvette Holder</p></h3>
 <p><strong>Description:&nbsp;</strong>The cuvette holder provides the delivery vehicle for the electric field that causes electroporation. It is also notable that the cuvette holder was designed to keep inward pressure on the plug ends that contact the cuvette. It was an important consideration in our design to provide hands-free electroporation and the built-in spring-like nature of the resulting connection ensures constant contact - even when like charges build up on each plug and its corresponding cuvette contact - a force that opposes contact. It is also notable that we chose stackable banana plugs so that we could tandem a 1,000V multimeter to the cuvette holder - especially useful during pre-electroporation functions check.</p>
 <p><strong>File:&nbsp;Cuvette Holder.stl</strong></p>
 <p><strong>File:&nbsp;Cuvette Holder.dwg</strong></p>
@@ -78,6 +92,9 @@
 </ul>
 <p>Assembly instruction</p>
 <p>&nbsp;</p>
+![](figs/cuv%201.png)
+![](figs/cuv%201.jpg)
+![](figs/cuv%201.png)
 <p><strong>Step&nbsp;1.&nbsp;</strong>3D print a Cuvette holder in PLA without support.</p>
 <p>Part:&nbsp;Junction box</p>
 <p><strong>Supplier:&nbsp;</strong>Lowes</p>
