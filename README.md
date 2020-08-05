@@ -23,7 +23,7 @@
 <ul>
 <li>Junction box&nbsp;<strong>x&nbsp;1</strong></li>
 </ul>
-<p>Assembly instruction</p>
+<h4><p>Assembly instruction</p></h4>
 <p>&nbsp;</p>
 <p><strong>Step&nbsp;1.&nbsp;</strong>Drill two 22mm holes in any side of the enclosure with centers at 34mm from the exterior bottom and horizontally 46mm apart on center. It might be helpful to label one hole &ldquo;Power supply&rdquo; and the other &ldquo;Cuvette holder&rdquo;.</p>
 <p>&nbsp;</p>
