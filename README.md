@@ -14,7 +14,7 @@
 <p><strong>Step&nbsp;4.&nbsp;</strong>Plug 24-inch male-male banana test leads into digital multimeter and the other end into the female end of stackable banana jacks of Step 2.</p>
 <p><strong>Step&nbsp;5.&nbsp;</strong>Perform functions check: power on the digital multimeter, set to measure voltage (up to 1KV), and charge &amp; discharge the capacitor with the pulse generator switch at lower voltage (e.g. 75V). If the device is functioning correctly, when the discharge begins the multimeter will display approximately 75V and go to ~50V volts in about 30sec.</p>
 <p>&nbsp;</p>
-<h3><p>Enclosure</p></h3>
+<h2><p>Enclosure</p></h2>
 <p><strong>Description:&nbsp;</strong>We chose to purchase a commercially available plastic junction box to enclose our pulse generator circuit. A 13mm hole was drilled into the enclosure cover for the DPDT and 22mm holes were marked and drilled in the enclosure which provided a nice fit for the plastic NM connectors and pass-through cables.</p>
 ![](figs/encl.jpg)
 <p><strong>Requires:</strong></p>
@@ -27,7 +27,7 @@
 ![](figs/encl%202.jpg)
 <p><strong>Step&nbsp;2.&nbsp;</strong>Drill 13mm hole in enclosure lid for switch mounting. Place the hole where hand-switching will be most comfortable.</p>
 <p>&nbsp;</p>
-<h3><p>Pulse Generator</p></h3>
+<h2><p>Pulse Generator</p></h2>
 <p><strong>Description:&nbsp;</strong>Components and configurations of the electrical circuit are described here. For all connections, refer to the circuit diagram and photos of the assembled circuit.</p>
 ![](figs/pgen%201.png)
 ![](figs/pgen%202.jpg)
@@ -83,7 +83,7 @@
 ![](figs/pgen%20assemb%2013.png)
 <p><strong>Step&nbsp;13.&nbsp;</strong>Attach enclosure cover.</p>
 <p>&nbsp;</p>
-<h3><p>Cuvette Holder</p></h3>
+<h2><p>Cuvette Holder</p></h2>
 <p><strong>Description:&nbsp;</strong>The cuvette holder provides the delivery vehicle for the electric field that causes electroporation. It is also notable that the cuvette holder was designed to keep inward pressure on the plug ends that contact the cuvette. It was an important consideration in our design to provide hands-free electroporation and the built-in spring-like nature of the resulting connection ensures constant contact - even when like charges build up on each plug and its corresponding cuvette contact - a force that opposes contact. It is also notable that we chose stackable banana plugs so that we could tandem a 1,000V multimeter to the cuvette holder - especially useful during pre-electroporation functions check.</p>
 <p><strong>Print File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.stl">Cuvette Holder.stl</a></strong></p>
 <p><strong>Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.dwg">Cuvette Holder.dwg</a></strong></p>
@@ -175,8 +175,8 @@
 <p><strong>Supplier catalog #:&nbsp;</strong>44740</p>
 <p><strong>URL:&nbsp;</strong><a href="https://www.lowes.com/pd/Sigma-Electric-ProConnex-3-8-in-Snap-in-Connector-Conduit-Fitting/3151125">www.lowes.com</a></p>
 <p>Part:&nbsp;3D printed cuvette holder</p>
-<p><strong>File:&nbsp;Cuvette Holder.stl</strong></p>
-<p><strong>File:&nbsp;Cuvette Holder.dwg</strong></p>
+<p><strong>Print File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.stl">Cuvette Holder.stl</a></strong></p>
+<p><strong>Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.dwg">Cuvette Holder.dwg</a></strong></p>
 <p>Authors</p>
 <table>
 <thead>
