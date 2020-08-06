@@ -96,7 +96,7 @@
 </ul>
 <h4><p>Assembly instruction</p></h4>
 ![](figs/cuv%201.png)
-![](figs/cuv%202.jpg width="200" height="400")
+![](figs/cuv%202.jpg)
 ![](figs/cuv%203.png)
 <p><strong>Step&nbsp;1.&nbsp;</strong>3D print a Cuvette holder in PLA without support.</p>
 <p>Part:&nbsp;Junction box</p>
