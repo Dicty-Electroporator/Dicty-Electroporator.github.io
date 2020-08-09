@@ -1,5 +1,4 @@
 <h2><p><em>Dictyostelium</em> <em>discoideum</em> Electroporator</p></h2>
-<p><a href="https://openhardware.metajnl.com/">View project in Journal of open hardware</a></p>
 <p><a href="https://www.docubricks.com/search.jsp">View project in Docubricks</a></p>
 <p><a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Dictyostelium%20discoideum%20Electroporator.docx">Download project</a></p>
 <p><strong>Abstract:&nbsp;</strong>Custom-made, inexpensive and open-source electroporation apparatus for <em>Dictyostelium discoideum</em> with all functional modules and peripherals.</p>
