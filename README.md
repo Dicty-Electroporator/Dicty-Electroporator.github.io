@@ -101,7 +101,7 @@
 <p><strong>Step&nbsp;1.&nbsp;</strong>3D print a Cuvette holder in PLA without support.</p>
 <p>
 <p>  
-<p><strong>Parts List Gen 1 Prototype
+<p><strong>Parts List Gen 1 Prototype</strong><p>
 <p>Part:&nbsp;Junction box</p>
 <p><strong>Supplier:&nbsp;</strong>Lowes</p>
 <p><strong>Supplier catalog #:&nbsp;</strong>E987NR</p>
@@ -623,6 +623,6 @@
 </table>
 <p>&nbsp;</p>
 
-<p><strong>2nd Generation Enhanced Prototype:&nbsp;</strong>Electroporation to introduce DNA into cells is a common technique in genetic engineering. <em>Dictyostelium discoideum</em> is a well-established eukaryotic model organism that is frequently genetically modified (transformed). We present here an electroporator capable of high efficiency <em>D. discoideum</em> transformation. Our electroporator consists of a high voltage power supply, pulse generator circuit and cell sample cuvette holder. The power supply is programmed to deliver desired voltage, which when activated by a double-pole, double-throw switch (DPDT below) charges the capacitor. Further switching allows the charged capacitor to deliver a precise, consistent exponential decay wave of the proper duration to the cuvette containing a <em>D. discoideum</em> cell and DNA mixture. The high-voltage circuit is housed in an electrically insulated enclosure - we chose a plastic electrical junction box with appropriate holes for switch mounting and cables to pass. A cuvette holder results from the 3D print of our stereolithography (.stl) CAD file. An electrophoresis chamber cover with cables was used as an adapter for banana plug/jack connections to the power supply. Integral in development and testing was an inexpensive 1,000-volt digital multimeter. To provide hands-free monitoring of discharge circuit voltage and monitoring of the real-time capacitor voltage, we connected the multimeter to the cuvette holder or to the capacitor plates with 24-inch male-male banana test leads or aligator clips, respectively. At the end of these instructions we have included safety and durability enhancements for a second generation prototype.</p>
-![](figs/pic%201.png)
+<p><strong>2nd Generation Enhanced Prptptype:&nbsp;</strong>For those concerned with a more durable and potentially safer device we have also constructed and tested an additional prototype with a minimal increase in cost. The second prototype features a soldered breadboard with higher power components. Assembly of the pulse generator circuit is straightforward and can be constructed by a beginner with access to soldering equipment. Improved safety features include an inverted capacitor on a circuit board that is solid state. The second prototype cuvette chamber requires more print media but includes an enclosure with more limited access to the power connectors as well as a clear removable lid. The 3D design and int files are available on the repositories mentioned above. Note that we chose a biodegradable and fire-resistant 3D print media. There are other cost effective, readily available, and more durable print media available. The improved system was tested and performs as efficiently as the original prototype.</p>
 ![](figs/pic%202.PNG)
+<p>
