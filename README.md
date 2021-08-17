@@ -100,7 +100,7 @@
 ![](figs/cuv%203.png)
 <p><strong>Step&nbsp;1.&nbsp;</strong>3D print a Cuvette holder in PLA without support.</p>
 <p>
-<p><strong>Parts List Gen 1 Prototype</p>
+<p><strong>Parts List Gen 1 Prototype
 <p>Part:&nbsp;Junction box</p>
 <p><strong>Supplier:&nbsp;</strong>Lowes</p>
 <p><strong>Supplier catalog #:&nbsp;</strong>E987NR</p>
