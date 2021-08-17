@@ -622,3 +622,7 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
+
+<p><strong>2nd Generation Enhanced Prptptype:&nbsp;</strong>For those concerned with a more durable and potentially safer device we have also constructed and tested an additional prototype with a minimal increase in cost. The second prototype features a soldered breadboard with higher power components. Assembly of the pulse generator circuit is straightforward and can be constructed by a beginner with access to soldering equipment. Improved safety features include an inverted capacitor on a circuit board that is solid state. The second prototype cuvette chamber requires more print media but includes an enclosure with more limited access to the power connectors as well as a clear removable lid. The 3D design and int files are available on the repositories mentioned above. Note that we chose a biodegradable and fire-resistant 3D print media. There are other cost effective, readily available, and more durable print media available. The improved system was tested and performs as efficiently as the original prototype.</p>
+![](figs/pic%202.PNG)
+<p>
