@@ -146,7 +146,7 @@
 <p>Part:&nbsp;Red banana plug test lead - 24 inch</p>
 <p><strong>Supplier:&nbsp;</strong>Mouser</p>
 <p><strong>Supplier catalog #:&nbsp;</strong>B-24-2</p>
-<p><strong>URL:&nbsp;</strong><a href="https://www.https://www.mouser.com/ProductDetail/Pomona-Electronics/B-24-2?qs=Jz4yJwmcGUolf%2Ft6R9QPRg%3D%3D">www.mouser.com</a></p>
+<p><strong>URL:&nbsp;</strong><a href="https://www.mouser.com/ProductDetail/Pomona-Electronics/B-24-2?qs=Jz4yJwmcGUolf%2Ft6R9QPRg%3D%3D">www.mouser.com</a></p>
 <p>Part:&nbsp;Black banana plug test lead - 24 inch</p>
 <p><strong>Supplier:&nbsp;</strong>Mouser</p>
 <p><strong>Supplier catalog #:&nbsp;</strong>B-24-0</p>
