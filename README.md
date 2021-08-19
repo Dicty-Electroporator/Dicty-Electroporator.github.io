@@ -619,6 +619,23 @@
 <p><a href="https://www.fishersci.com/shop/products/fisherbiotech-horizontal-electrophoresis-systems-minigel-system-7-x-10cm-gel-size/fbsb710">www.fishersci.com</a></p>
 </td>
 </tr>
+<tr>
+<td>
+<p>Horizontal Gel Electrophoresis System</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Thermo Fisher Scientific</p>
+</td>
+<td>
+<p>FB-SB-710 (or similar)</p>
+</td>
+<td>
+<p><a href="https://www.fishersci.com/shop/products/fisherbiotech-horizontal-electrophoresis-systems-minigel-system-7-x-10cm-gel-size/fbsb710">www.fishersci.com</a></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
