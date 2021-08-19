@@ -624,7 +624,7 @@
 <p>Power supply bababa plug test leads 60 inch</p>
 </td>
 <td>
-<p>1</p>
+<p>1-2</p>
 </td>
 <td>
 <p>Mouser</p>
