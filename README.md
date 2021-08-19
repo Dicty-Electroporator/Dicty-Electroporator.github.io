@@ -621,19 +621,19 @@
 </tr>
 <tr>
 <td>
-<p>Horizontal Gel Electrophoresis System</p>
+<p>Power supply bababa plug test leads 60 inch</p>
 </td>
 <td>
 <p>1</p>
 </td>
 <td>
-<p>Thermo Fisher Scientific</p>
+<p>Mouser</p>
 </td>
 <td>
-<p>FB-SB-710 (or similar)</p>
+<p>4911A-60</p>
 </td>
 <td>
-<p><a href="https://www.fishersci.com/shop/products/fisherbiotech-horizontal-electrophoresis-systems-minigel-system-7-x-10cm-gel-size/fbsb710">www.fishersci.com</a></p>
+<p><a href="https://www.mouser.com/Search/Refine?Keyword=4911a-60">www.mouser.com</a></p>
 </td>
 </tr>
 </tbody>
