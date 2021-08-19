@@ -559,8 +559,28 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
+<tr>
+<td>
+<p>LampVPath PCB Prototype Board, Double Sided PCB Proto Board for DIY Solder Breadboard, 8cm X 12cm</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Amazon</p>
+</td>
+<td>
+<p>739340318574</p>
+</td>
+<td>
+<p><a href="https://www.amazon.com/gp/product/B07Y3DVM1W/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1">www.amazon.com</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 ![](figs/pic%202.PNG)
-![](figs/pic%202.PNG)
+
 <p><strong>2nd Generation Enhanced Prptptype:&nbsp;</strong>For those concerned with a more durable and potentially safer device we have also constructed and tested an additional prototype with a minimal increase in cost. The second prototype features a soldered breadboard with higher power components. Assembly of the pulse generator circuit is straightforward and can be constructed by a beginner with access to soldering equipment. Improved safety features include an inverted capacitor on a circuit board that is solid state. The second prototype cuvette chamber requires more print media but includes an enclosure with more limited access to the power connectors as well as a clear removable lid. The 3D design and int files are available on the repositories mentioned above. Note that we chose a biodegradable and fire-resistant 3D print media. There are other cost effective, readily available, and more durable print media available. The improved system was tested and performs as efficiently as the original prototype.</p>
 
 <p>We produced a soldered Pulse Generator made with much higher wattage resistors and terminal plugs for the switch.</p>
