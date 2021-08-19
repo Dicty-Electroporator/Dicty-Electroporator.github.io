@@ -561,7 +561,7 @@
 <p>&nbsp;</p>
 <tr>
 <td>
-<p>LampVPath PCB Prototype Board, Double Sided PCB Proto Board for DIY Solder Breadboard, 8cm X 12cm</p>
+<p>PCB Prototype Board</p>
 </td>
 <td>
 <p>1</p>
