@@ -181,7 +181,7 @@
 </tr>
 </tbody>
 </table>
-<p>Total bill of materials for this project</p>
+<h2><p>Total bill of materials for this project</p></h2>
 <table>
 <thead>
 <tr>
@@ -601,7 +601,7 @@
 ![](figs/Gen2SwPlugsCloseup.jpg)
 
 
-<h2><p>Total bill of materials for this project</p></h2>
+<h2><p>Additional parts required for the enhanced prototype</p></h2>
 <table>
 <thead>
 <tr>
