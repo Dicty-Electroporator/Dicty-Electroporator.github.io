@@ -8,15 +8,6 @@
 
 
 
-![](figs/pic%202.PNG)
-
-<p><strong>2nd Generation Enhanced Prptptype:&nbsp;</strong>For those concerned with a more durable and potentially safer device we have also constructed and tested an additional prototype with a minimal increase in cost. The second prototype features a soldered breadboard with higher power components. Assembly of the pulse generator circuit is straightforward and can be constructed by a beginner with access to soldering equipment. Improved safety features include an inverted capacitor on a circuit board that is solid state. The second prototype cuvette chamber requires more print media but includes an enclosure with more limited access to the power connectors as well as a clear removable lid. The 3D design and print files are available on the this page. Note that we chose a biodegradable and fire-resistant 3D print media. There are other cost effective, readily available, and more durable print media available. The enhanced system was tested and performs as efficiently as the original prototype.</p>
-
-<p>We produced a soldered Pulse Generator made with much higher wattage resistors and terminal plugs for the switch.</p>
-
-
-![](figs/Gen2PGAll.jpg)
-![](figs/Gen2SwPlugsCloseup.jpg)
 
 
 <p><strong>License:&nbsp;</strong>CERN Open Hardware License</p>
@@ -102,8 +93,7 @@
 <p>&nbsp;</p>
 <h2><p>Cuvette Holder</p></h2>
 <p><strong>Description:&nbsp;</strong>The cuvette holder provides the delivery vehicle for the electric field that causes electroporation. It is also notable that the cuvette holder was designed to keep inward pressure on the plug ends that contact the cuvette. It was an important consideration in our design to provide hands-free electroporation and the built-in spring-like nature of the resulting connection ensures constant contact - even when like charges build up on each plug and its corresponding cuvette contact - a force that opposes contact. It is also notable that we chose stackable banana plugs so that we could tandem a 1,000V multimeter to the cuvette holder - especially useful during pre-electroporation functions check.</p>
-<p><strong>Print File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.stl">Cuvette Holder.stl</a></strong></p>
-<p><strong>Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.dwg">Cuvette Holder.dwg</a></strong></p>
+
 <p><strong>Requires:</strong></p>
 <ul>
 <li>3D printed cuvette holder&nbsp;<strong>x&nbsp;1</strong></li>
@@ -115,8 +105,7 @@
 <p><strong>Step&nbsp;1.&nbsp;</strong>3D print a Cuvette holder in PLA without support.</p>
 <p>
 <p>
-<p><strong>Print File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.stl">Cuvette Holder.stl</a></strong></p>
-<p><strong>Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.dwg">Cuvette Holder.dwg</a></strong></p>
+
 
 [](figs/pic%202.PNG)
 
