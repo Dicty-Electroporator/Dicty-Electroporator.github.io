@@ -602,7 +602,8 @@
 
 
 <h2><p>Additional parts required for the enhanced prototype</p></h2>
-</tr> </tbody>
+</tr> 
+</tbody>
 
 <table>
 <thead>
