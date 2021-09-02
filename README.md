@@ -91,20 +91,7 @@
 ![](figs/pgen%20assemb%2013.png)
 <p><strong>Step&nbsp;13.&nbsp;</strong>Attach enclosure cover.</p>
 <p>&nbsp;</p>
-<h2><p>Cuvette Holder</p></h2>
-<p><strong>Description:&nbsp;</strong>The cuvette holder provides the delivery vehicle for the electric field that causes electroporation. It is also notable that the cuvette holder was designed to keep inward pressure on the plug ends that contact the cuvette. It was an important consideration in our design to provide hands-free electroporation and the built-in spring-like nature of the resulting connection ensures constant contact - even when like charges build up on each plug and its corresponding cuvette contact - a force that opposes contact. It is also notable that we chose stackable banana plugs so that we could tandem a 1,000V multimeter to the cuvette holder - especially useful during pre-electroporation functions check.</p>
 
-<p><strong>Requires:</strong></p>
-<ul>
-<li>3D printed cuvette holder&nbsp;<strong>x&nbsp;1</strong></li>
-</ul>
-<h4><p>Assembly instruction</p></h4>
-![](figs/cuv%201.png)
-![](figs/cuv%202.jpg)
-![](figs/cuv%203.png)
-<p><strong>Step&nbsp;1.&nbsp;</strong>3D print a Cuvette holder in PLA without support.</p>
-<p>
-<p>
 
 
 [](figs/pic%202.PNG)
