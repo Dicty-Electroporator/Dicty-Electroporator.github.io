@@ -622,6 +622,7 @@
 </td>
 </tr>
 </thead>
+<td>
 <p>Power supply bababa plug test leads 60 inch</p>
 </td>
 <td>
