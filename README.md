@@ -104,7 +104,7 @@
 ![](figs/cuv%201.png)
 ![](figs/cuv%202.jpg)
 ![](figs/cuv%203.png)
-<p><strong>Step&nbsp;1.&nbsp;</strong>3D print a Cuvette holder in PLA without support.</p>
+
 <p>
 <p>
 <p><strong>Print File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.stl">Cuvette Holder.stl</a></strong></p>
