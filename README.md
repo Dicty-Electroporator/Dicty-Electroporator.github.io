@@ -599,3 +599,62 @@
 
 ![](figs/Gen2PGAll.jpg)
 ![](figs/Gen2SwPlugsCloseup.jpg)
+
+
+<h2><p>Total bill of materials for this project</p></h2>
+<table>
+<thead>
+<tr>
+<td>
+<p><strong>Part</strong></p>
+</td>
+<td>
+<p><strong>Quantity</strong></p>
+</td>
+<td>
+<p><strong>Supplier</strong></p>
+</td>
+<td>
+<p><strong>Supplier part number</strong></p>
+</td>
+<td>
+<p><strong>URL</strong></p>
+</td>
+</tr>
+</thead>
+<p>Power supply bababa plug test leads 60 inch</p>
+</td>
+<td>
+<p>1-2</p>
+</td>
+<td>
+<p>Mouser</p>
+</td>
+<td>
+<p>4911A-60</p>
+</td>
+<td>
+<p><a href="https://www.mouser.com/Search/Refine?Keyword=4911a-60">www.mouser.com</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>PCB Prototype Board</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Amazon</p>
+</td>
+<td>
+<p>739340318574</p>
+</td>
+<td>
+<p><a href="https://www.amazon.com/gp/product/B07Y3DVM1W/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1">www.amazon.com</a></p>
+</td>
+</tr>
+
+</tbody>
+</table>
+<p>&nbsp;</p>
