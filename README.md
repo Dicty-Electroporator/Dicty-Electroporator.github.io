@@ -586,3 +586,4 @@
 ![](figs/Gen2SwPlugsCloseup.jpg)
 
 ![](figs/pic%202.PNG)
+<p>We produced a soldered Pulse Generator made with much higher wattage resistors and terminal plugs for the switch.</p>
