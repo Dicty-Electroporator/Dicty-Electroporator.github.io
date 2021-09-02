@@ -639,7 +639,7 @@
 <td>
 <p><a href="https://www.mouser.com/Search/Refine?Keyword=4911a-60">www.mouser.com</a></p>
 </td>
-</tr>
+
 <tr>
 <td>
 <p>PCB Prototype Board</p>
