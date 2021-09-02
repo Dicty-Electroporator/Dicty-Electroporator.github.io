@@ -567,23 +567,8 @@
 <p><a href="https://www.mouser.com/Search/Refine?Keyword=4911a-60">www.mouser.com</a></p>
 </td>
 </tr>
-<tr>
-<td>
-<p>PCB Prototype Board</p>
-</td>
-<td>
-<p>1</p>
-</td>
-<td>
-<p>Amazon</p>
-</td>
-<td>
-<p>739340318574</p>
-</td>
-<td>
-<p><a href="https://www.amazon.com/gp/product/B07Y3DVM1W/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1">www.amazon.com</a></p>
-</td>
-</tr>
+
+  
 
 </tbody>
 </table>
@@ -602,8 +587,6 @@
 
 
 <h2><p>Additional parts required for the enhanced prototype</p></h2>
-
-
 <table>
 <thead>
 <tr>
