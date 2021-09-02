@@ -114,7 +114,7 @@
 
 <p>&nbsp;</p>
 
-<p>Authors</p>
+<h2><p>Authors</p></h2>
 <table>
 <thead>
 <tr>
