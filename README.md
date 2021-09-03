@@ -13,7 +13,7 @@
 <p><strong>License:&nbsp;</strong>CERN Open Hardware License</p>
 <p><strong>Requires:</strong></p>
 <ul>
-<li>Pulse Generator&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Cuvette Holder&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Multimeter&nbsp;<strong>x&nbsp;1,&nbsp;</strong>1KV DC Power supply (e.g., Bio-Rad PowerPac 1000)&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Red banana plug test lead - 24 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Black banana plug test lead - 24 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Horizontal Gel Electrophoresis System&nbsp;<strong>x&nbsp;1</strong></li>
+<li>Pulse Generator&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Cuvette Holder&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Multimeter&nbsp;<strong>x&nbsp;1,&nbsp;</strong>1KV DC Power supply (e.g., Bio-Rad PowerPac 1000+)&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Red banana plug test lead - 24 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Black banana plug test lead - 24 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Horizontal Gel Electrophoresis System&nbsp;<strong>x&nbsp;1</strong></li>
 </ul>
 <h3><p>Assembly instruction</p></h3>
 <p><strong>Step&nbsp;1.&nbsp;</strong>Plug electroporator power supply leads into gel electrophoresis lid.</p>
@@ -41,7 +41,7 @@
 ![](figs/pgen%202.jpg)
 <p><strong>Requires:</strong></p>
 <ul>
-<li>400 Point solderless breadboard&nbsp;<strong>x&nbsp;2,&nbsp;</strong>Male-Male fixed length jumper wires&nbsp;<strong>x&nbsp;5,&nbsp;</strong>Test Lead Wire 25 ft. red&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Test Lead Wire 25 ft. black&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Male-Male flexible jumper wires&nbsp;<strong>x&nbsp;9,&nbsp;</strong>Capacitor - 25microF&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Red banana plug test lead - 60 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Black banana plug test lead - 60 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Ring Terminals&nbsp;<strong>x&nbsp;4,&nbsp;</strong>Resistor - 1M Ohm&nbsp;<strong>x&nbsp;6,&nbsp;</strong>Resistor - 100k Ohm&nbsp;<strong>x&nbsp;6,&nbsp;</strong>3-Position Screw Terminal Block&nbsp;<strong>x&nbsp;4,&nbsp;</strong>DPDT toggle switch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Plastic NM Connector&nbsp;<strong>x&nbsp;2,&nbsp;</strong>Enclosure&nbsp;
+<li>400 Point solderless breadboard&nbsp;<strong>x&nbsp;2,&nbsp;</strong>Male-Male fixed length jumper wires&nbsp;<strong>x&nbsp;5,&nbsp;</strong>Test Lead Wire 25 ft. red&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Test Lead Wire 25 ft. black&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Male-Male flexible jumper wires&nbsp;<strong>x&nbsp;9,&nbsp;</strong>Capacitor - 25micro 1.3kVF&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Red banana plug test lead - 60 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Black banana plug test lead - 60 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Ring Terminals&nbsp;<strong>x&nbsp;4,&nbsp;</strong>Resistor - 1M Ohm 1/2W&nbsp;<strong>x&nbsp;6,&nbsp;</strong>Resistor - 100k Ohm 2W&nbsp;<strong>x&nbsp;6,&nbsp;</strong>3-Position Screw Terminal Block&nbsp;<strong>x&nbsp;4,&nbsp;</strong>15A AC DPDT toggle switch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Plastic NM Connector&nbsp;<strong>x&nbsp;2,&nbsp;</strong>Enclosure&nbsp;
 <strong>x&nbsp;1</strong></li>
 </ul>
 <p>&nbsp;</p>
