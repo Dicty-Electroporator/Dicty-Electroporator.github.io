@@ -584,7 +584,7 @@
 
 ![](figs/Gen2PGAll.jpg)
 ![](figs/Gen2SwPlugsCloseup.jpg)
-
+<p>&nbsp;</p>
 
 <h2><p>Additional parts required for the enhanced prototype</p></h2>
 <table>
