@@ -109,7 +109,7 @@
 
 <p><strong>Print File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.stl">Cuvette Holder.stl</a></strong></p>
 <p><strong>CAD Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.dwg">Cuvette Holder.dwg</a></strong></p>
-<p><strong>FreeCAD Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.dwg">Cuvette Holder.iges</a></strong></p>
+<p><strong>FreeCAD Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.iges">Cuvette Holder.iges</a></strong></p>
 <p>&nbsp;</p>
 
 <h2><p>Authors</p></h2>
