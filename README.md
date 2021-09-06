@@ -586,7 +586,7 @@
 <p>The components were fixed to the breadboard using the long leads of resistors as traces on the underside of the 8cm x 12cm padboard.</p>
 ![](figs/Placement.PNG)
 ![](figs/Gen2Traces2.jpg)
-<p>Trimmed terminals were used to create any additional traces. This technique can be easily be found on the internet. Wile the circuit diagram has remained unchanged, the new board layout accomodates the lack of premade traces found on breadboards. In addition two jumber wires were soldered to the component side at each end of the bleed-down resistor array. This modification allows the real-time monitoring of the capacitor voltage during electroporation and proovides assurance the the capacitor is safe. This is accomplished by connecting the 1kV digital multimeter to the jumper wires using aligator clips passed through newly drilled holes in the enclosure. The same digital multimeter used for performing a functions check may be used.<p>
+<p>Trimmed terminals were used to create any additional traces. This technique can be easily be found on the internet. Wile the circuit diagram has remained unchanged, the new board layout accomodates the lack of premade traces found on breadboards. In addition two jumber wires were soldered to the component side at each end of the bleed-down resistor array. This modification allows the real-time monitoring of the capacitor voltage during electroporation and provides assurance the the capacitor is safe. This is accomplished by connecting the 1kV digital multimeter to the jumper wires using aligator clips passed through newly drilled holes in the enclosure. The same digital multimeter used for performing a functions check may be used.<p>
 <p>&nbsp;</p>
 
 <h2><p>Additional parts required for the enhanced prototype</p></h2>
