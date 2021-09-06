@@ -591,6 +591,10 @@
 <p>The second-generation enhanced prototype cuvette holder has several additional safety features. The original cuvette holder is now enclosed in a four-sided box with a removable clear Poly acrylic lid. Colors have been enlarged to add additional protection from shock exposure. Design and print files have been included below and the chamber can be printed either hollow or solid.</p>
 ![](figs/Gen2CHcollars.jpg)
 ![](figs/Gen2CHlid.jpg)
+<p><strong>Print File2:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enhanced%20Cuvette%20Chamber%203DPrintSTL.stl">Enhhanced Cuvette Chamber.stl</a></strong></p>
+<p><strong>CAD Design File2:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enhanced%20Cuvette%20Chamber%20CAD.dwg">Enhhanced Cuvette Chamber.dwg</a></strong></p>
+<p><strong>FreeCAD Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enhanced%20Cuvette%20Chamber%20FreeCAD.iges">Enhanced Cuvette Chamber FreeCAD.iges</a></strong></p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2><p>Additional parts required for the enhanced prototype</p></h2>
 
