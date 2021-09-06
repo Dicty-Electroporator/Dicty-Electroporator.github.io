@@ -593,7 +593,7 @@
 ![](figs/Gen2CHlid.jpg)
 <p><strong>Print File2:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enhanced%20Cuvette%20Chamber%203DPrintSTL.stl">Enhhanced Cuvette Chamber.stl</a></strong></p>
 <p><strong>CAD Design File2:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enhanced%20Cuvette%20Chamber%20CAD.dwg">Enhhanced Cuvette Chamber.dwg</a></strong></p>
-<p><strong>FreeCAD Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enhanced%20Cuvette%20Chamber%20FreeCAD.iges">Enhanced Cuvette Chamber FreeCAD.iges</a></strong></p>
+<p><strong>FreeCAD Design File2:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enhanced%20Cuvette%20Chamber%20FreeCAD.iges">Enhanced Cuvette Chamber FreeCAD.iges</a></strong></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2><p>Additional parts required for the enhanced prototype</p></h2>
