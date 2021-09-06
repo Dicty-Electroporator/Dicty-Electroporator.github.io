@@ -577,15 +577,16 @@
 
 <p><strong>2nd Generation Enhanced Prototype:&nbsp;</strong>For those concerned with a more durable and potentially safer device we have also constructed and tested an additional prototype with a minimal increase in cost. The second prototype features a soldered breadboard with higher power components. Assembly of the pulse generator circuit is straightforward and can be constructed by a beginner with access to soldering equipment. Improved safety features include an inverted capacitor on a circuit board that is solid state. The second prototype cuvette chamber requires more print media but includes an enclosure with more limited access to the power connectors as well as a clear removable lid. The 3D design and print files are available on the this page. Note that we chose a biodegradable and fire-resistant 3D print media. There are other cost effective, readily available, and more durable print media available. The enhanced system was tested and performs as efficiently as the original prototype.</p>
 
-<p>We produced a soldered Pulse Generator made with much higher wattage resistors and terminal plugs for the switch.</p>
+<p>A soldered Pulse Generator made with much higher wattage resistors and terminal plugs for the switch.</p>
 ![](figs/Gen2SwPlugsCloseup.jpg)
 <p>&nbsp;</p>
-<p>For a more durable device we used 2W 1M Ohm for the anti no-load shutoff resistors R1-R2 and bleed down resistors R9-R12. 8W 100k Ohm resistors were used for charge-side current limiting shutoff resistors R3-R8.</p>
+<p>For a more durable device 2W 1M Ohm were used for the anti no-load shutoff resistors R1-R2 and bleed down resistors R9-R12. 8W 100k Ohm resistors were used for charge-side current limiting shutoff resistors R3-R8.</p>
 ![](figs/Gen2PGRt.jpg)
 <p>&nbsp;</p>
-<p>.</p>
-
-
+<p>The components were fixed to the breadboard Using the long leads of resistors as traces on the underside of the 8cm x 12cm padboard.</p>
+![](figs/Placement.PNG)
+![](figs/Gen2Traces2.jpg)
+<p>&nbsp;</p>
 <h2><p>Additional parts required for the enhanced prototype</p></h2>
 
 <table>
