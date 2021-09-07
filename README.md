@@ -668,5 +668,22 @@
 <td>
 <p><a href="https://www.mouser.com/ProductDetail/YAGEO/FMF1WSFTE52-1M?qs=%2Fha2pyFadujJjcj5KIEZ2s6k%252B5CYESJkdPjhClUwmUq8v0vU4hqKz3kd%2Flh0XWyJ">www.mouser.com</a></p>
 </td>
+ <tr>
+<td>
+<p>3-Pin 5.08mm Pitch Male Female Plug-in PCB Screw Terminal Block Connector</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Amazon</p>
+</td>
+<td>
+<p>603-FMF1WSFTE52-1M</p>
+</td>
+<td>
+<p><a href="https://www.amazon.com/PoiLee-5-08mm-Female-Terminal-Connector/dp/B07TQLYQ7W/ref=asc_df_B07TQLYQ7W/?tag=hyprod-20&linkCode=df0&hvadid=385629037133&hvpos=&hvnetw=g&hvrand=8172029133657464055&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9005131&hvtargid=pla-846156762614&psc=1&tag=&ref=&adgrpid=73872201970&hvpone=&hvptwo=&hvadid=385629037133&hvpos=&hvnetw=g&hvrand=8172029133657464055&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9005131&hvtargid=pla-846156762614">www.amazon.com</a></p>
+</td>
+  
 
 <p>&nbsp;</p>
