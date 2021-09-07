@@ -548,26 +548,6 @@
 <p><a href="https://www.fishersci.com/shop/products/fisherbiotech-horizontal-electrophoresis-systems-minigel-system-7-x-10cm-gel-size/fbsb710">www.fishersci.com</a></p>
 </td>
 </tr>
-<tr>
-<td>
-<p>Power supply bababa plug test leads 60 inch</p>
-</td>
-<td>
-<p>1-2</p>
-</td>
-<td>
-<p>Mouser</p>
-</td>
-<td>
-<p>4911A-60</p>
-</td>
-<td>
-<p><a href="https://www.mouser.com/Search/Refine?Keyword=4911a-60">www.mouser.com</a></p>
-</td>
-</tr>
-
-  
-
 </tbody>
 </table>
 <p>&nbsp;</p>
