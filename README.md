@@ -656,6 +656,21 @@
 <td>
 <p><a href="https://www.amazon.com/gp/product/B07Y3DVM1W/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1">www.amazon.com</a></p>
 </td>
-
+<tr>
+<td>
+<p>Resistors - 8W 100k Ohm</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Mouser</p>
+</td>
+<td>
+<p>279-ROX8J100K</p>
+</td>
+<td>
+<p><a href="https://www.mouser.com/ProductDetail/TE-Connectivity-Holsworthy/ROX8J100K?qs=gZXFycFWdAMYKZPoGrub8g%3D%3D">www.mouser.com</a></p>
+</td>
 
 <p>&nbsp;</p>
