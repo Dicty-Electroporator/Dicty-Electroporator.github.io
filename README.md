@@ -572,7 +572,7 @@
 </table>
 <p>&nbsp;</p>
 
-<h2><p>2nd Generation Enhanced Prototype</p></h2>
+<h1><p>2nd Generation Enhanced Prototype</p></h1>
 ![](figs/pic%202.PNG)
 
 <p>For those concerned with a more durable and potentially safer device we have also constructed and tested an additional prototype with a minimal increase in cost. The second prototype features a soldered breadboard with higher power components. Assembly of the pulse generator circuit is straightforward and can be constructed by a beginner with access to soldering equipment. Improved safety features include an inverted capacitor on a circuit board that is solid state. The second prototype cuvette chamber requires more print media but includes an enclosure with more limited access to the power connectors as well as a clear removable lid. The 3D design and print files are available on this page. Note that we chose a biodegradable and fire-resistant 3D print media. There are other cost effective, readily available, and more durable print media available. The enhanced system was tested and performs as efficiently as the original prototype.</p>
@@ -588,7 +588,7 @@
 ![](figs/Gen2Traces2.jpg)
 <p>Trimmed resistor terminals were used to create any additional traces. This technique can easily be found on the internet. While the circuit diagram has remained unchanged, the new board layout accommodates the lack of premade traces found on solderless breadboards. In addition, two jumper wires were soldered to the component side at each end of the bleed-down resistor array. This modification allows the real-time monitoring of the capacitor voltage during electroporation and provides assurance the capacitor is safe. This is accomplished by connecting the 1kV digital multimeter to the jumper wires using alligator clips passed through newly drilled holes in the enclosure. The same digital multimeter used for performing a functions check may be used.</p>
 <p>&nbsp;</p>
-<h1><p>2nd generation enhanced cuvette chamber</p></h1>
+<h2><p>2nd generation enhanced cuvette chamber</p></h2>
 <p>The second-generation enhanced prototype cuvette holder has several additional safety features. The original cuvette holder is now enclosed in a four-sided box with a removable clear Poly acrylic lid. Colors have been enlarged to add additional protection from shock exposure. Design and print files have been included below and the chamber can be printed either hollow or solid.</p>
 
 ![](figs/Gen2CHcollars.jpg)
