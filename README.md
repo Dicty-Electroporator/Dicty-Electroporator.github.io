@@ -652,5 +652,21 @@
 <td>
 <p><a href="https://www.mouser.com/ProductDetail/TE-Connectivity-Holsworthy/ROX8J100K?qs=gZXFycFWdAMYKZPoGrub8g%3D%3D">www.mouser.com</a></p>
 </td>
+ <tr>
+<td>
+<p>Resistors - 1W 1M Ohm</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Mouser</p>
+</td>
+<td>
+<p>603-FMF1WSFTE52-1M</p>
+</td>
+<td>
+<p><a href="https://www.mouser.com/ProductDetail/YAGEO/FMF1WSFTE52-1M?qs=%2Fha2pyFadujJjcj5KIEZ2s6k%252B5CYESJkdPjhClUwmUq8v0vU4hqKz3kd%2Flh0XWyJ">www.mouser.com</a></p>
+</td>
 
 <p>&nbsp;</p>
