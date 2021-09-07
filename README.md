@@ -575,7 +575,8 @@
 ![](figs/Gen2CHlid.jpg)
 <p><strong>Print File2:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enhanced%20Cuvette%20Chamber%203DPrintSTL.stl">Enhhanced Cuvette Chamber.stl</a></strong></p>
 <p><strong>CAD Design File2:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enhanced%20Cuvette%20Chamber%20CAD.dwg">Enhhanced Cuvette Chamber.dwg</a></strong></p>
-<p><strong>Laser cut enclosure lid SVG file:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enclosure%20Lid%20LaserCutSVG.svg">Enclosure Lid LaserCutSVG.svg</a></strong></p>
+[<strong>Laser cut enclosure lid SVG file: Enclosure Lid LaserCutSVG.svg</strong>](./Enclosure%20Lid%20LaserCutSVG.svg)
+
 <p><strong>Enclosure Lid print file:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enclosure%20Lid%20STL.stl">Enclosure Lid STL.stl</a></strong></p>
 <p><strong>Enclosure Lid CAD design file:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enclosure%20Lid%20CAD.dwg">Enclosure Lid CAD.dwg</a></strong></p>
 
