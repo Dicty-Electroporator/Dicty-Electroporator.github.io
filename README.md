@@ -109,7 +109,7 @@
 
 <p><strong>Print File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.stl">Cuvette Holder.stl</a></strong></p>
 <p><strong>CAD Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.dwg">Cuvette Holder.dwg</a></strong></p>
-<p>FreeCAD Open Source IGES Design File: Available in Download Project top of page</p>
+<p><strong>FreeCAD Open Source IGES Design File:&nbsp;Available in Download Project top of page</strong></p>
 <p>&nbsp;</p>
 
 <h2><p>Authors</p></h2>
