@@ -573,8 +573,8 @@
 
 ![](figs/Gen2CHcollars.jpg)
 ![](figs/Gen2CHlid.jpg)
-<p><strong>Print File2:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enhanced%20Cuvette%20Chamber%203DPrintSTL.stl">Enhhanced Cuvette Chamber.stl</a></strong></p>
-<p><strong>CAD Design File2:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enhanced%20Cuvette%20Chamber%20CAD.dwg">Enhhanced Cuvette Chamber.dwg</a></strong></p>
+<p><strong>Print File2:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enhanced%20Cuvette%20Chamber%203DPrintSTL.stl">Enhanced Cuvette Chamber.stl</a></strong></p>
+<p><strong>CAD Design File2:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enhanced%20Cuvette%20Chamber%20CAD.dwg">Enhanced Cuvette Chamber.dwg</a></strong></p>
 <p>FreeCAD Open Source IGES Design File: Available in Download Project top of page</p>
 
 <p><strong>Enclosure Lid Print File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enclosure%20Lid%20STL.stl">Enclosure Lid STL.stl</a></strong></p>
