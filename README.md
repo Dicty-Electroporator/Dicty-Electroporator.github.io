@@ -615,7 +615,7 @@
 <p>Mouser</p>
 </td>
 <td>
-<p>4911A-60</p>
+<p>4911A-60/4911A-62</p>
 </td>
 <td>
 <p><a href="https://www.mouser.com/Search/Refine?Keyword=4911a-60">www.mouser.com</a></p>
@@ -623,7 +623,7 @@
 
 <tr>
 <td>
-<p>PCB Prototype padboard</p>
+<p>PCB Prototype padboard - 8cm x 12cm</p>
 </td>
 <td>
 <p>1</p>
@@ -655,7 +655,7 @@
 </td>
  <tr>
 <td>
-<p>Resistors - 1W 1M Ohm</p>
+<p>Resistors - 2W 1M Ohm</p>
 </td>
 <td>
 <p>6</p>
@@ -664,10 +664,10 @@
 <p>Mouser</p>
 </td>
 <td>
-<p>603-FMF1WSFTE52-1M</p>
+<p>594-5083NW1M000J</p>
 </td>
 <td>
-<p><a href="https://www.mouser.com/ProductDetail/YAGEO/FMF1WSFTE52-1M?qs=%2Fha2pyFadujJjcj5KIEZ2s6k%252B5CYESJkdPjhClUwmUq8v0vU4hqKz3kd%2Flh0XWyJ">www.mouser.com</a></p>
+<p><a href="https://www.mouser.com/ProductDetail/Vishay-BC-Components/PR02000201004JR500?qs=LCMWAU1DZcwmgZ1lvVsGww%3D%3D">www.mouser.com</a></p>
 </td>
  <tr>
 <td>
@@ -680,10 +680,10 @@
 <p>Amazon</p>
 </td>
 <td>
-<p>603-FMF1WSFTE52-1M</p>
+<p>0766832280286</p>
 </td>
 <td>
-<p><a href="https://www.amazon.com/PoiLee-5-08mm-Female-Terminal-Connector/dp/B07TQLYQ7W/ref=asc_df_B07TQLYQ7W/?tag=hyprod-20&linkCode=df0&hvadid=385629037133&hvpos=&hvnetw=g&hvrand=8172029133657464055&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9005131&hvtargid=pla-846156762614&psc=1&tag=&ref=&adgrpid=73872201970&hvpone=&hvptwo=&hvadid=385629037133&hvpos=&hvnetw=g&hvrand=8172029133657464055&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9005131&hvtargid=pla-846156762614">www.amazon.com</a></p>
+<p><a href="https://www.amazon.com/PoiLee-5-08mm-Female-Terminal-Connector/dp/B07TQLYQ7W/ref=asc_df_B07TQLYQ7W/?tag=hyprod-20&linkCode=df0&hvadid=385629037133&hvpos=&hvnetw=g&hvrand=8172029133657464055&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9005131&hvtargid=pla-846156762614&psc=1&tag=&ref=&adgrpid=73872201970&hvpone=&hvptwo=&hvadid=385629037133&hvpos=&hvnetw=g&hvrand=8172029133657464055&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9005131&hvtargid=pla-846156762614">www.amazon.com</0766832280286a></p>
 </td>
   
 
