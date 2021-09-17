@@ -669,7 +669,7 @@
 <td>
 <p><a href="https://www.mouser.com/ProductDetail/Vishay-BC-Components/PR02000201004JR500?qs=LCMWAU1DZcwmgZ1lvVsGww%3D%3D">www.mouser.com</a></p>
 </td>
-
+<tr>
 <td>
 <p>3-Pin 5.08mm Pitch Male Female Plug-in PCB Screw Terminal Block Connector</p>
 </td>
