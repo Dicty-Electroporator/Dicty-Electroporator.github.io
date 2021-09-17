@@ -356,7 +356,7 @@
 </tr>
 <tr>
 <td>
-<p>Resistor - 1M Ohm</p>
+<p>Resistor - 1M Ohm - 1/2W</p>
 </td>
 <td>
 <p>6</p>
@@ -373,7 +373,7 @@
 </tr>
 <tr>
 <td>
-<p>Resistor - 100k Ohm</p>
+<p>Resistor - 100k Ohm - 2W</p>
 </td>
 <td>
 <p>6</p>
@@ -407,7 +407,7 @@
 </tr>
 <tr>
 <td>
-<p>DPDT toggle switch</p>
+<p>DPDT toggle switch - 2W</p>
 </td>
 <td>
 <p>1</p>
