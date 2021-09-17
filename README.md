@@ -368,7 +368,7 @@
 <p>VR68000001004FAC00</p>
 </td>
 <td>
-<p><a href="https://www.mouser.com/ProductDetail/Vishay-BC-Components/VR68000001004FAC00?qs=sGAEpiMZZMtlubZbdhIBINtbNoSbM%252B0d%2FjObZ4k8RUc%3D">www.mouser.com</a></p>
+<p><a href="https://www.mouser.com/ProductDetail/Vishay-Dale/CMF551M0000BHEK?qs=rMX6kfwPG0qbAzHtP4OjAA%3D%3D">www.mouser.com</a></p>
 </td>
 </tr>
 <tr>
