@@ -60,7 +60,7 @@
 <p><strong>Step&nbsp;4.&nbsp;</strong>Clip resistor pins and bend at 90-degree angle to fit into breadboard terminals.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assmb%205.jpg)
-<p><strong>Step&nbsp;5.&nbsp;</strong>Connect six 100K Ohm resistors (R3-R8) in parallel into breadboards using jumper wires as needed to form connections.</p>
+<p><strong>Step&nbsp;5.&nbsp;</strong>Connect six 100K Ohm - 2W resistors (R3-R8) in parallel into breadboards using jumper wires as needed to form connections.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assmb%206.png)
 <p><strong>Step&nbsp;6.&nbsp;</strong>Connect two 1M Ohm resistors (R1 and R2) in series into breadboards using jumper wires as needed to form connections.</p>
