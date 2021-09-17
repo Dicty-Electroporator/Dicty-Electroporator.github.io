@@ -63,15 +63,15 @@
 <p><strong>Step&nbsp;5.&nbsp;</strong>Connect six 100K Ohm - 2W resistors (R3-R8) in parallel into breadboards using jumper wires as needed to form connections.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assmb%206.png)
-<p><strong>Step&nbsp;6.&nbsp;</strong>Connect two 1M Ohm resistors (R1 and R2) in series into breadboards using jumper wires as needed to form connections.</p>
+<p><strong>Step&nbsp;6.&nbsp;</strong>Connect two 1M Ohm - 1/2W resistors (R1 and R2) in series into breadboards using jumper wires as needed to form connections.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assmb%207.png)
-<p><strong>Step&nbsp;7.&nbsp;</strong>Connect four 1M Ohm resistors (R9-R12) in series. A short jumper wire is also placed on the board as shown (lower right section of breadboard) that will become a link between terminal blocks from steps 2, 3, 9 and 10.</p>
+<p><strong>Step&nbsp;7.&nbsp;</strong>Connect four 1M Ohm - 1/2W resistors (R9-R12) in series. A short jumper wire is also placed on the board as shown (lower right section of breadboard) that will become a link between terminal blocks from steps 2, 3, 9 and 10.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assmb%208.1.png)
 ![](figs/pgen%20assmb%208.2.jpg)
 ![](figs/pgen%20assemb%208.3.jpg)
-<p><strong>Step&nbsp;8.&nbsp;</strong>Ensure the capacitor is not charged before handling by measuring voltage across the terminals using the multimeter. Connect three 20cm flexible jumper wires to each pole of capacitor. Note that two leads from each capacitor pole are present. Wire terminals can be crimped around capacitor leads or soldered for establishing a more permanent connection. Attach capacitor leads to breadboard per circuit diagram.</p>
+<p><strong>Step&nbsp;8.&nbsp;</strong>Ensure the 25microF - 1,300V capacitor is not charged before handling by measuring voltage across the terminals using the multimeter. Connect three 20cm flexible jumper wires to each pole of capacitor. Note that two leads from each capacitor pole are present. Wire terminals can be crimped around capacitor leads or soldered for establishing a more permanent connection. Attach capacitor leads to breadboard per circuit diagram.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assemb%209.1.jpg)
 ![](figs/pgen%20assemb%209.2.jpg)
@@ -105,7 +105,7 @@
 ![](figs/cuv%201.png)
 ![](figs/cuv%202.jpg)
 ![](figs/cuv%203.png)
-<p><strong>Step&nbsp;1.&nbsp;</strong>3D print a Cuvette holder in PLA without support.</p>
+<p><strong>Step&nbsp;1.&nbsp;</strong>3D print a Cuvette holder in PLA semi-hollow without support.</p>
 
 <p><strong>Print File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.stl">Cuvette Holder.stl</a></strong></p>
 <p><strong>CAD Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.dwg">Cuvette Holder.dwg</a></strong></p>
@@ -288,7 +288,7 @@
 </tr>
 <tr>
 <td>
-<p>Capacitor - 25microF</p>
+<p>Capacitor - 25microF - 1,300V</p>
 </td>
 <td>
 <p>1</p>
