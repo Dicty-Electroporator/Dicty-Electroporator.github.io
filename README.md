@@ -365,7 +365,7 @@
 <p>Mouser</p>
 </td>
 <td>
-<p>VR68000001004FAC00</p>
+<p>71-CMF551M0000BHEK</p>
 </td>
 <td>
 <p><a href="https://www.mouser.com/ProductDetail/Vishay-Dale/CMF551M0000BHEK?qs=rMX6kfwPG0qbAzHtP4OjAA%3D%3D">www.mouser.com</a></p>
@@ -407,7 +407,7 @@
 </tr>
 <tr>
 <td>
-<p>DPDT toggle switch - 2W</p>
+<p>DPDT toggle switch - 20A</p>
 </td>
 <td>
 <p>1</p>
@@ -424,7 +424,7 @@
 </tr>
 <tr>
 <td>
-<p>Plastic NM Connector</p>
+<p>3/8-in Plastic NM Connector</p>
 </td>
 <td>
 <p>2</p>
@@ -478,7 +478,7 @@
 <p>CEN-TECH</p>
 </td>
 <td>
-<p>61593</p>
+<p>61593/P37772</p>
 </td>
 <td>
 <p><a href="https://www.harborfreight.com/11-function-digital-multimeter-with-audible-continuity-61593.html">www.harborfreight.com</a></p>
@@ -499,7 +499,7 @@
 </tr>
 <tr>
 <td>
-<p>Red banana plug test lead - 24 inch</p>
+<p>Red banana plug test lead - 24 inch - 15A</p>
 </td>
 <td>
 <p>1</p>
@@ -511,7 +511,7 @@
 <p>B-24-2</p>
 </td>
 <td>
-<p><a href="https://www.mouser.com/ProductDetail/Pomona-Electronics/B-60-2?qs=sGAEpiMZZMv8kklI404QlQaMEaX1aQ14">www.mouser.com</a></p>
+<p><a href="https://www.mouser.com/ProductDetail/Pomona-Electronics/B-24-2?qs=Jz4yJwmcGUolf%2Ft6R9QPRg%3D%3D">www.mouser.com</a></p>
 </td>
 </tr>
 <tr>
