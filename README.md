@@ -105,7 +105,12 @@
 ![](figs/cuv%201.png)
 ![](figs/cuv%202.jpg)
 ![](figs/cuv%203.png)
-<p><strong>Step&nbsp;1.&nbsp;</strong>3D print a Cuvette holder in PLA semi-hollow without support.</p>
+<p><strong>Step&nbsp;1.&nbsp;</strong>3D print a Cuvette holder in PLA semi-hollow without support. Print file is available below in  STL format. Editable design files in DWG format is also available below. The DWG file was crreated in AutoCAD student addition which is free to students. The DWG file is also editable in several open-source CAD packages including DraftSight 
+Autodesk 123D Design 
+nanoCAD
+AutoCAD Mobile
+DoubleCAD XT
+</p>
 
 <p><strong>Print File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.stl">Cuvette Holder.stl</a></strong></p>
 <p><strong>CAD Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.dwg">Cuvette Holder.dwg</a></strong></p>
