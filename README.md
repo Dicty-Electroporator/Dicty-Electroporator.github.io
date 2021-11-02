@@ -687,19 +687,19 @@
 </td>
  <tr>
 <td>
-<p>Resistors - 2W-1M Ohm</p>
+<p>Bio-Rad Model 3000xi Computer Controlled Electrophoresis Power Supply</p>
 </td>
 <td>
-<p>6</p>
+<p>1</p>
 </td>
 <td>
-<p>Mouser</p>
+<p>ebay</p>
 </td>
 <td>
-<p>594-5083NW1M000J</p>
+<p></p>
 </td>
 <td>
-<p><a href="https://www.mouser.com/ProductDetail/Vishay-BC-Components/PR02000201004JR500?qs=LCMWAU1DZcwmgZ1lvVsGww%3D%3D">www.mouser.com</a></p>
+<p><a href="https://www.ebay.com">www.ebay.com</a></p>
 </td>
 <tr>
 <td>
