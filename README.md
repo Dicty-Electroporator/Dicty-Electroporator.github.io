@@ -356,7 +356,7 @@
 </tr>
 <tr>
 <td>
-<p>Resistor - 1M Ohm - 1/2W</p>
+<p>Resistor - 1M Ohm - 500mW</p>
 </td>
 <td>
 <p>6</p>
