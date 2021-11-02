@@ -669,6 +669,38 @@
 <td>
 <p><a href="https://www.mouser.com/ProductDetail/Vishay-BC-Components/PR02000201004JR500?qs=LCMWAU1DZcwmgZ1lvVsGww%3D%3D">www.mouser.com</a></p>
 </td>
+  <tr>
+<td>
+<p>Resistors - 8W-100k Ohm</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Mouser</p>
+</td>
+<td>
+<p>279-ROX8J100K</p>
+</td>
+<td>
+<p><a href="https://www.mouser.com/ProductDetail/TE-Connectivity-Holsworthy/ROX8J100K?qs=gZXFycFWdAMYKZPoGrub8g%3D%3D">www.mouser.com</a></p>
+</td>
+ <tr>
+<td>
+<p>Resistors - 2W-1M Ohm</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Mouser</p>
+</td>
+<td>
+<p>594-5083NW1M000J</p>
+</td>
+<td>
+<p><a href="https://www.mouser.com/ProductDetail/Vishay-BC-Components/PR02000201004JR500?qs=LCMWAU1DZcwmgZ1lvVsGww%3D%3D">www.mouser.com</a></p>
+</td>
 <tr>
 <td>
 <p>3-Pin 5.08mm Pitch Male Female Plug-in PCB Screw Terminal Block Connector</p>
