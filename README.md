@@ -162,7 +162,7 @@
 
 <p>&nbsp;</p>
 
-
+ </td>
 <p><strong>Requires:</strong></p>
 
 <ul>
