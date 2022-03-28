@@ -163,10 +163,6 @@
 
 <p>&nbsp;</p>
 
-
-
-<p>&nbsp;</p>
-
 <p><strong>Requires:</strong></p>
 
 <ul>
