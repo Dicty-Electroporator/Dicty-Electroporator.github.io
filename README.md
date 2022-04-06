@@ -66,7 +66,7 @@
 </td>
 </tr>
 </thead>
-
+<tbody>
 <td>
 <p>Power supply banana plug test leads 60 inch</p>
 </td>
