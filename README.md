@@ -163,9 +163,7 @@
 <p>ebay</p>
 </td>
    
-<td>
-<p></p>
-</td>
+
    
 <td>
 <p><a href="https://www.ebay.com">www.ebay.com</a></p>
