@@ -66,7 +66,8 @@
 </td>
 </tr>
 </thead>
-       
+  
+ <tr>    
 <td>
 <p>Power supply banana plug test leads 60 inch</p>
 </td>
@@ -86,7 +87,7 @@
 <td>
 <p><a href="https://www.mouser.com/Search/Refine?Keyword=4911a-60">www.mouser.com</a></p>
 </td>
-
+ </tr>
   <tr>
 <td>
 <p>PCB Prototype padboard - 8cm x 12cm</p>
@@ -107,7 +108,7 @@
 <td>
 <p><a href="https://www.amazon.com/gp/product/B07Y3DVM1W/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1">www.amazon.com</a></p>
 </td>
- 
+ </tr> 
   <tr>
 <td>
 <p>Resistors - 8W-100k Ohm</p>
@@ -128,7 +129,7 @@
 <td>
 <p><a href="https://www.mouser.com/ProductDetail/TE-Connectivity-Holsworthy/ROX8J100K?qs=gZXFycFWdAMYKZPoGrub8g%3D%3D">www.mouser.com</a></p>
 </td>
- 
+ </tr> 
   <tr>
 <td>
 <p>Resistors - 2W-1M Ohm</p>
@@ -149,7 +150,7 @@
 <td>
 <p><a href="https://www.mouser.com/ProductDetail/Vishay-BC-Components/PR02000201004JR500?qs=LCMWAU1DZcwmgZ1lvVsGww%3D%3D">www.mouser.com</a></p>
 </td>
-  
+ </tr>
   <tr>
 <td>
 <p>Bio-Rad Model 3000xi Computer Controlled Electrophoresis Power Supply</p>
@@ -187,7 +188,7 @@
 </td>
 <td>
 <p><a href="https://www.amazon.com/PoiLee-5-08mm-Female-Terminal-Connector/dp/B07TQLYQ7W/ref=asc_df_B07TQLYQ7W/?tag=hyprod-20&linkCode=df0&hvadid=385629037133&hvpos=&hvnetw=g&hvrand=8172029133657464055&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9005131&hvtargid=pla-846156762614&psc=1&tag=&ref=&adgrpid=73872201970&hvpone=&hvptwo=&hvadid=385629037133&hvpos=&hvnetw=g&hvrand=8172029133657464055&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9005131&hvtargid=pla-846156762614">www.amazon.com</a></p>
- 
+ </tr?
   
 <p>&nbsp;</p>
 
