@@ -60,21 +60,23 @@
         </td>
     </tr>
 </thead>
-<td>
-    <p>Power supply banana plug test leads 60 inch</p>
-</td>
-<td>
-    <p>1-2</p>
-</td>
-<td>
-    <p>Mouser</p>
-</td>
-<td>
-    <p>4911A-60/4911A-62</p>
-</td>
-<td>
-    <p><a href="https://www.mouser.com/Search/Refine?Keyword=4911a-60">www.mouser.com</a></p>
-</td>
+    <tr>
+        <td>
+            <p>Power supply banana plug test leads 60 inch</p>
+        </td>
+        <td>
+            <p>1-2</p>
+        </td>
+        <td>
+            <p>Mouser</p>
+        </td>
+        <td>
+            <p>4911A-60/4911A-62</p>
+        </td>
+        <td>
+            <p><a href="https://www.mouser.com/Search/Refine?Keyword=4911a-60">www.mouser.com</a></p>
+        </td>
+    </tr>      
 <tr>
     <td>
         <p>PCB Prototype padboard - 8cm x 12cm</p>
@@ -152,6 +154,9 @@
     <td>
         <p><a href="https://www.amazon.com/PoiLee-5-08mm-Female-Terminal-Connector/dp/B07TQLYQ7W/ref=asc_df_B07TQLYQ7W/?tag=hyprod-20&linkCode=df0&hvadid=385629037133&hvpos=&hvnetw=g&hvrand=8172029133657464055&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9005131&hvtargid=pla-846156762614&psc=1&tag=&ref=&adgrpid=73872201970&hvpone=&hvptwo=&hvadid=385629037133&hvpos=&hvnetw=g&hvrand=8172029133657464055&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9005131&hvtargid=pla-846156762614">www.amazon.com</a></p>
         <p>&nbsp;</p>
+    </td>
+    </tr>
+    </table>
         <p><strong>Requires:</strong></p>
         <ul>
             <li>Pulse Generator&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Cuvette Holder&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Multimeter&nbsp;<strong>x&nbsp;1,&nbsp;</strong>1KV DC Power supply (e.g., Bio-Rad PowerPac 1000+)&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Red banana plug test lead - 24 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Black banana plug test lead - 24 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Horizontal Gel Electrophoresis System&nbsp;<strong>x&nbsp;1</strong></li>
