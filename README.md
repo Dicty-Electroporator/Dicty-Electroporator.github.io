@@ -342,6 +342,7 @@
 <h1>
    <p>1st Generation Modular Prototype</p>
 </h1>
+![](figs/pic%201.png)
 <p><strong>Requires:</strong></p>
 <ul>
    <li>&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Cuvette Holder&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Multimeter&nbsp;<strong>x&nbsp;1,&nbsp;</strong>1KV DC Power supply (e.g., Bio-Rad PowerPac 1000+)&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Red banana plug test lead - 24 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Black banana plug test lead - 24 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Horizontal Gel Electrophoresis System&nbsp;<strong>x&nbsp;1</strong></li>
