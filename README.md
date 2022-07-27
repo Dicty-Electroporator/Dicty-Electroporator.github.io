@@ -165,6 +165,175 @@
             <p><a href="https://www.amazon.com/PoiLee-5-08mm-Female-Terminal-Connector/dp/B07TQLYQ7W/ref=asc_df_B07TQLYQ7W/?tag=hyprod-20&linkCode=df0&hvadid=385629037133&hvpos=&hvnetw=g&hvrand=8172029133657464055&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9005131&hvtargid=pla-846156762614&psc=1&tag=&ref=&adgrpid=73872201970&hvpone=&hvptwo=&hvadid=385629037133&hvpos=&hvnetw=g&hvrand=8172029133657464055&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9005131&hvtargid=pla-846156762614">www.amazon.com</a></p>
          </td>
       </tr>
+
+      <tr>
+         <td>
+            <p>Male-Male fixed length jumper wires</p>
+         </td>
+         <td>
+            <p>5</p>
+         </td>
+         <td>
+            <p>Jameco</p>
+         </td>
+         <td>
+            <p>2127718</p>
+         </td>
+         <td>
+            <p><a href="https://www.jameco.com/z/WJW-70B-5-70-Piece-Jumper-Wire-Kit-22AWG-14-Lengths-10-Colors_2127718.html">www.jameco.com</a></p>
+         </td>
+      </tr>
+
+      <tr>
+         <td>
+            <p>Capacitor - 25microF - 1,300V</p>
+         </td>
+         <td>
+            <p>1</p>
+         </td>
+         <td>
+            <p>Mouser</p>
+         </td>
+         <td>
+            <p>C4AQUBW5250A3NJ</p>
+         </td>
+         <td>
+            <p><a href="https://www.mouser.com/ProductDetail/KEMET/C4AQUBW5250A3NJ?qs=%2Fha2pyFadugKSuBjMOjke5u9ridkq4YeClSJSpnddrBZ2GZPnEOejQ%3D%3D">www.mouser.com</a></p>
+         </td>
+      </tr>
+
+      <tr>
+         <td>
+            <p>Ring Terminals</p>
+         </td>
+         <td>
+            <p>4</p>
+         </td>
+         <td>
+            <p>Lowes</p>
+         </td>
+         <td>
+            <p>136093</p>
+         </td>
+         <td>
+            <p><a href="https://www.lowes.com/pd/Utilitech-20-Count-Ring-Wire-Connectors/999953294">www.lowes.com</a></p>
+         </td>
+      </tr>
+ 
+      <tr>
+         <td>
+            <p>3-Position Screw Terminal Block</p>
+         </td>
+         <td>
+            <p>4</p>
+         </td>
+         <td>
+            <p>Addicore</p>
+         </td>
+         <td>
+            <p>AD305</p>
+         </td>
+         <td>
+            <p><a href="https://www.addicore.com/3-Position-Screw-Terminal-Block-p/ad305.htm">www.addicore.com</a></p>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <p>DPDT toggle switch - 20A</p>
+         </td>
+         <td>
+            <p>1</p>
+         </td>
+         <td>
+            <p>Ace Hardware</p>
+         </td>
+         <td>
+            <p>GSW-16</p>
+         </td>
+         <td>
+            <p><a href="https://www.acehardware.com/departments/lighting-and-electrical/switches-outlets-and-plugs/switches/3531324">www.acehardware.com</a></p>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <p>3/8-in Plastic NM Connector</p>
+         </td>
+         <td>
+            <p>2</p>
+         </td>
+         <td>
+            <p>Lowes</p>
+         </td>
+         <td>
+            <p>44740</p>
+         </td>
+         <td>
+            <p><a href="https://www.lowes.com/pd/Sigma-Electric-ProConnex-3-8-in-Snap-in-Connector-Conduit-Fitting/3151125">www.lowes.com</a></p>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <p>Junction box</p>
+         </td>
+         <td>
+            <p>1</p>
+         </td>
+         <td>
+            <p>Lowes</p>
+         </td>
+         <td>
+            <p>E987NR</p>
+         </td>
+         <td>
+            <p><a href="https://www.lowes.com/pd/CARLON-Gray-Weatherproof-Pvc-Junction-Box/1000975650">www.lowes.com</a></p>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <p>3D printed cuvette holder</p>
+         </td>
+         <td>
+            <p>1</p>
+         </td>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <td>
+            <p>Multimeter</p>
+         </td>
+         <td>
+            <p>1</p>
+         </td>
+         <td>
+            <p>CEN-TECH</p>
+         </td>
+         <td>
+            <p>61593/P37772</p>
+         </td>
+         <td>
+            <p><a href="https://www.harborfreight.com/11-function-digital-multimeter-with-audible-continuity-61593.html">www.harborfreight.com</a></p>
+         </td>
+      </tr>
+
+      <tr>
+         <td>
+            <p>INSERT MONITOR PLUGS!!!</p>
+         </td>
+         <td>
+            <p>1</p>
+         </td>
+         <td>
+            <p>Thermo Fisher Scientific</p>
+         </td>
+         <td>
+            <p>FB-SB-710 (or similar)</p>
+         </td>
+         <td>
+            <p><a href="https://www.fishersci.com/shop/products/fisherbiotech-horizontal-electrophoresis-systems-minigel-system-7-x-10cm-gel-size/fbsb710">www.fishersci.com</a></p>
+         </td>
+         </tr>
    </tbody>
 </table>
 <p><strong>Requires:</strong></p>
