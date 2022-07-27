@@ -40,7 +40,7 @@
 <p>FreeCAD Open Source IGES Design File: Available in Download Project top of page</p>
 <p>&nbsp;</p>
 <h2>
-   <p>Additional parts required for the enhanced prototype</p>
+   <p>Total bill of materials for the enhanced prototype</p>
 </h2>
 <table>
    <thead>
