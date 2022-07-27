@@ -319,19 +319,19 @@
 
       <tr>
          <td>
-            <p>INSERT MONITOR PLUGS!!!</p>
+            <p>Banana Jack Connector Standard Banana Solder Red/Black</p>
          </td>
          <td>
-            <p>1</p>
+            <p>2</p>
          </td>
          <td>
-            <p>Thermo Fisher Scientific</p>
+            <p>Digi-Key</p>
          </td>
          <td>
-            <p>FB-SB-710 (or similar)</p>
+            <p>3185-FCR7350R-ND (or similar)</p>
          </td>
          <td>
-            <p><a href="https://www.fishersci.com/shop/products/fisherbiotech-horizontal-electrophoresis-systems-minigel-system-7-x-10cm-gel-size/fbsb710">www.fishersci.com</a></p>
+            <p><a href="https://www.digikey.com/en/products/detail/cliff-electronic-components-ltd/FCR7350R/13588710?utm_adgroup=Banana%20and%20Tip%20Connectors%20-%20Jacks%2C%20Plugs&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Connectors%2C%20Interconnects_NEW&utm_term=&utm_content=Banana%20and%20Tip%20Connectors%20-%20Jacks%2C%20Plugs&gclid=Cj0KCQjwxIOXBhCrARIsAL1QFCaS0i6JGg6UL4RwvlMztOWSG87LscZ9CT0JJhaYllfI620GVLvLvh8aAoXKEALw_wcB">www.digikey.com</a></p>
          </td>
          </tr>
    </tbody>
