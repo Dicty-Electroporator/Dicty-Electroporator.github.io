@@ -14,7 +14,7 @@
 ![](figs/pic%202.png)
 <p>For those concerned with a more durable and potentially safer device we have also constructed and tested an additional prototype with a minimal increase in cost. The second prototype features a soldered breadboard with higher power components. Assembly of the pulse generator circuit is straightforward and can be constructed by a beginner with access to soldering equipment. Improved safety features include an inverted capacitor on a circuit board that is solid state. The second prototype cuvette chamber requires more print media but includes an enclosure with more limited access to the power connectors as well as a clear removable lid. The 3D design and print files are available on this page. Note that we chose a biodegradable and fire-resistant 3D print media. There are other cost effective, readily available, and more durable print media available. The enhanced system was tested and performs as efficiently as the original prototype.</p>
 <p>A soldered Pulse Generator was made with much higher wattage resistors and terminal plugs for the switch.</p>
-![](figs/pgen%202.2.jpg)
+![](figs/pgen%202.2.png)
 <p>&nbsp;</p>
 ![](figs/Gen2SwPlugsCloseup.jpg)
 <p>&nbsp;</p>
