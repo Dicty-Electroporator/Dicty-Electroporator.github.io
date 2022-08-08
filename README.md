@@ -568,7 +568,7 @@
             <p>Male-Male fixed length jumper wires</p>
          </td>
          <td>
-            <p>5</p>
+            <p>1</p>
          </td>
          <td>
             <p>Jameco</p>
@@ -619,16 +619,16 @@
             <p>Male-Male flexible jumper wires</p>
          </td>
          <td>
-            <p>9</p>
+            <p>1</p>
          </td>
          <td>
-            <p>Mouser</p>
+            <p>Walmart</p>
          </td>
          <td>
-            <p>KIT-ZWx4</p>
+            <p>NA</p>
          </td>
          <td>
-            <p><a href="https://www.mouser.com/ProductDetail/BusBoard-Prototype-Systems/KIT-ZWx4?qs=sGAEpiMZZMvh1pRuiUVjFZ0aAJXGPyuNDJiA5Z8ZR2Q%2FfInvTU3aKA%3D%3D">www.mouser.com</a></p>
+            <p><a href="[https://www.mouser.com/ProductDetail/BusBoard-Prototype-Systems/KIT-ZWx4?qs=sGAEpiMZZMvh1pRuiUVjFZ0aAJXGPyuNDJiA5Z8ZR2Q%2FfInvTU3aKA%3D%3D](https://www.walmart.com/ip/Jumpers-Wire-Kit-Breadboard-Jumper-Assorted-Length-Brass-Wire-Core-Durable-For-Connecting-Electronic-Components/1240167396?wmlspartner=wlpa&selectedSellerId=101092147)">www.walmart.com</a></p>
          </td>
       </tr>
       <tr>
