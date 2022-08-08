@@ -557,10 +557,10 @@
             <p>Jameco</p>
          </td>
          <td>
-            <p>2157693</p>
+            <p>20601</p>
          </td>
          <td>
-            <p><a href="http://www.jameco.com">www.jameco.com</a></p>
+            <p><a href="[http://www.jameco.com](https://www.jameco.com/z/WBU-301-R-Jameco-Valuepro-400-Point-Solderless-Breadboard-3-3-Lx2-1-W_20601.html)">www.jameco.com</a></p>
          </td>
       </tr>
       <tr>
