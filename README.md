@@ -795,10 +795,10 @@
             <p>Lowes</p>
          </td>
          <td>
-            <p>E987NR</p>
+            <p>10029</p>
          </td>
          <td>
-            <p><a href="https://www.lowes.com/pd/CARLON-Gray-Weatherproof-Pvc-Junction-Box/1000975650">www.lowes.com</a></p>
+            <p><a href="[https://www.lowes.com/pd/CARLON-Gray-Weatherproof-Pvc-Junction-Box/1000975650](https://www.lowes.com/pd/CARLON-Gray-Weatherproof-Pvc-Junction-Box/1000975650)">www.lowes.com</a></p>
          </td>
       </tr>
       <tr>
