@@ -283,10 +283,10 @@
             <p>Lowes</p>
          </td>
          <td>
-            <p>E987NR</p>
+            <p>10029</p>
          </td>
          <td>
-            <p><a href="https://www.lowes.com/pd/CARLON-Gray-Weatherproof-Pvc-Junction-Box/1000975650">www.lowes.com</a></p>
+            <p><a href="https://www.lowes.com/pd/CANTEX-Junction-Box-Gang-Gray-Plastic-Weatherproof-New-Work-Old-Work-Standard-Square-Interior-Exterior-Electrical-Box/3276255">www.lowes.com</a></p>
          </td>
       </tr>
       <tr>
