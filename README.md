@@ -81,6 +81,40 @@
             <p><a href="https://www.mouser.com/Search/Refine?Keyword=4911a-60">www.mouser.com</a></p>
          </td>
       </tr>
+          <tr>
+         <td>
+            <p>Test Lead Wire 25 in. red</p>
+         </td>
+         <td>
+            <p>1</p>
+         </td>
+         <td>
+            <p>Powerwerx</p>
+         </td>
+         <td>
+            <p>Wire-TL-18-00-25</p>
+         </td>
+         <td>
+            <p><a href="https://powerwerx.com/test-lead-rubber-flexible-wire">powerwerx.com</a></p>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <p>Test Lead Wire 25 in. black</p>
+         </td>
+         <td>
+            <p>1</p>
+         </td>
+         <td>
+            <p>Powerwerx</p>
+         </td>
+         <td>
+            <p>Wire-TL-18-00-25</p>
+         </td>
+         <td>
+            <p><a href="https://powerwerx.com/test-lead-rubber-flexible-wire">powerwerx.com</a></p>
+         </td>
+      </tr>
       <tr>
          <td>
             <p>PCB Prototype padboard - 8cm x 12cm</p>
