@@ -724,13 +724,13 @@
             <p>6</p>
          </td>
          <td>
-            <p>Amazon</p>
+            <p>Mouser</p>
          </td>
          <td>
-            <p>60PCS 2W Resistor</p>
+            <p>603-MFR200FRF52-100K</p>
          </td>
          <td>
-            <p><a href="https://www.amazon.com/BAEASU-60PCS-Metal-Film-Resistor/dp/B07VCDJR8W?th=1">www.amazon.com</a></p>
+            <p><a href="[https://www.amazon.com/BAEASU-60PCS-Metal-Film-Resistor/dp/B07VCDJR8W?th=1](https://www.mouser.com/ProductDetail/YAGEO/MFR200FRF52-100K?qs=sGAEpiMZZMtlubZbdhIBIOunD5kldQoz6RmiTa0f1D8%3D)">www.mouser.com</a></p>
          </td>
       </tr>
       <tr>
