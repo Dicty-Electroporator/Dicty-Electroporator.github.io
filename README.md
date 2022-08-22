@@ -17,8 +17,8 @@
 <p>&nbsp;</p>
 ![](figs/Gen2SwPlugsCloseup.jpg)
 <p>&nbsp;</p>
-<p>For a more durable device 2W-1M Ohm resistors were used for the anti-no-load shutoff resistors R1-R2 and bleed down resistors R9-R12. 8W-100k Ohm resistors were used for charge-side current limiting shutoff resistors R3-R8.</p>
-![](figs/Gen2PGRt.jpg)
+<p2W-1M Ohm resistors were used for resistors R1-R2 and R9-R12. 8W-100k Ohm resistors were used for resistors R3-R8.</p>
+![](figs/Top view2.jpg)
 <p>&nbsp;</p>
 <p>The components were fixed to the breadboard using the long leads of resistors as traces on the underside of the 8cm x 12cm padboard.</p>
 ![](figs/Placement.PNG)
