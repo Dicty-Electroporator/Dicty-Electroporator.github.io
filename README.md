@@ -24,6 +24,7 @@
 ![](figs/Placement.PNG)
 ![](figs/Layout.png)
 ![](figs/Traces.png)
+![](figs/Layout2.png)
 <p>Trimmed resistor terminals were used to create any additional traces. This technique can easily be found on the internet. While the circuit diagram has remained unchanged, the new board layout accommodates the lack of premade traces found on solderless breadboards. In addition, two jumper wires were soldered to the component side at each end of the bleed-down resistor array. This modification allows the real-time monitoring of the capacitor voltage during electroporation and provides assurance the capacitor is safe. This is accomplished by connecting the 1kV digital multimeter to the jumper wires using alligator clips passed through newly drilled holes in the enclosure. The same digital multimeter used for performing a functions check may be used.</p>
 <p>&nbsp;</p>
 <h2>
