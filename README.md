@@ -378,7 +378,7 @@
 
 <p>&nbsp;</p> 
 <h1>
-   <p>1st Generation Modular Prototype</p>
+   <p>Modular Prototype</p>
 </h1>
 ![](figs/pic%201.png)
 <p><strong>Requires:</strong></p>
