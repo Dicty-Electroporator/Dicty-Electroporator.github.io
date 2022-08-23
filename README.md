@@ -12,7 +12,7 @@
    <p><em>D. discoideum</em> Electroporation System</p>
 </h1>
 ![](figs/pic%202.png)
-<p>The pulse generator circuit features a soldered breadboard with higher power components. Assembly is straightforward and can be constructed by a beginner with access to soldering equipment. The cuvette chamber includes an enclosure with limited access to the power connectors as well as a clear removable lid. 3D design and print files are available on this page. Note that we chose a biodegradable and fire-resistant 3D print media. Other cost effective, readily available, and more durable print media are available. The system was tested and performs as efficiently as a commercial electroporator.</p>
+<p>The pulse generator circuit features a soldered breadboard with high power components. Assembly is straightforward and can be constructed by a beginner with access to soldering equipment. The cuvette chamber includes an enclosure with limited access to the power connectors as well as a clear removable lid. 3D design and print files are available on this page. Note that we chose a biodegradable and fire-resistant 3D print media. Other cost effective, readily available, and more durable print media are available. The system was tested and performs as efficiently as a commercial electroporator.</p>
 ![](figs/Figure%202.png)
 <p>&nbsp;</p>
 ![](figs/Gen2SwPlugsCloseup.jpg)
