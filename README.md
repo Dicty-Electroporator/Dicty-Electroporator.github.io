@@ -28,9 +28,11 @@
 <p>Trimmed resistor terminals and solder were used to create traces. This layout accommodates the lack of premade traces found on solderless breadboards. In addition, banana jack connectors were soldered to the component side and traced to the opposing capacitor poles at each end of the bleed-down resistor array. This allows connection to a multimeter and real-time monitoring of the capacitor voltage during electroporation and provides assurance the capacitor is safe.</p>
 <p>&nbsp;</p>
 <h2>
-   <p>2nd generation enhanced cuvette chamber</p>
+   <p>Cuvette Chamber</p>
 </h2>
-<p>The second-generation enhanced prototype cuvette holder has several additional safety features. The original cuvette holder is now enclosed in a four-sided box with a removable clear Poly acrylic lid. Collars have been enlarged to add additional protection from shock exposure. Design and print files have been included below and the chamber can be printed either hollow or solid.</p>
+<p><p><strong>Description:&nbsp;</strong>The cuvette chamber provides the delivery vehicle for the electric field that causes electroporation. The cuvette chamber was designed to keep inward pressure on the plug ends that contact the cuvette - It was an important consideration in our design to provide hands-free electroporation and the built-in spring-like nature of the resulting connection ensures constant contact - even when like charges build up on each plug and its corresponding cuvette contact - a force that opposes contact. It is also notable that we chose stackable banana plugs so that we could tandem a 1,000V multimeter to the cuvette holder - especially useful during pre-electroporation functions check.</p>
+
+<p>The cuvette chamber has several safety features. It is enclosed in a four-sided box with a removable clear Poly acrylic lid, which can also be 3D printed. Collars around lead connectors provide protection from shock exposure. Design and print files are included below and the chamber can be printed with various levels of fill (15% fill shown).</p>
 ![](figs/Gen2CHcollars.jpg)
 ![](figs/Gen2CHlid.jpg)
 <p><strong>Print File2:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enhanced%20Cuvette%20Chamber%203DPrintSTL.stl">Enhanced Cuvette Chamber.stl</a></strong></p>
