@@ -17,7 +17,7 @@
 <p>&nbsp;</p>
 ![](figs/Gen2SwPlugsCloseup.jpg)
 <p>&nbsp;</p>
-<p2W-1M Ohm resistors were used for resistors R1-R2 and R9-R12. 8W-100k Ohm resistors were used for resistors R3-R8.</p>
+<p>2W-1M Ohm resistors were used for resistors R1-R2 and R9-R12. 8W-100k Ohm resistors were used for resistors R3-R8.</p>
 ![](figs/Top view2.jpg)
 <p>&nbsp;</p>
 <p>Components were fixed to the breadboard using the long leads of resistors as traces on the underside of the 8cm x 12cm padboard.</p>
