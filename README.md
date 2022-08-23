@@ -38,7 +38,7 @@
 <p><strong>Print File2:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enhanced%20Cuvette%20Chamber%203DPrintSTL.stl">Cuvette Chamber.stl</a></strong></p>
 <p><strong>CAD Design File2:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enhanced%20Cuvette%20Chamber%20CAD.dwg">Cuvette Chamber CAD.dwg</a></strong></p>
 <p>FreeCAD Open Source IGES Design File: Available in Download Project top of page</p>
-<p><strong>Enclosure Lid Laser Cut File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enclosure%20Lid%20LaserCutSVG.svg</a></strong></p>
+<p><strong>Enclosure Lid Laser Cut File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enclosure%20Lid%20LaserCutSVG.svg">Enclosure Lid.SVG</a></strong></p>
 <p><strong>Enclosure Lid Print File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enclosure%20Lid%20STL.stl">Enclosure Lid STL.stl</a></strong></p>
 <p><strong>Enclosure Lid CAD Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enclosure%20Lid%20CAD.dwg">Enclosure Lid CAD.dwg</a></strong></p>
 
