@@ -23,7 +23,7 @@
 <p>Components were fixed to the breadboard using the long leads of resistors as traces on the underside of the 8cm x 12cm padboard.</p>
 ![](figs/Placement.PNG)
 
-![](figs/Layout2.png)
+![](figs/Layout.png)
 ![](figs/bottom.png)
 <p>Trimmed resistor terminals and solder were used to create traces. This layout accommodates the lack of premade traces found on solderless breadboards. In addition, banana jack connectors were soldered to the component side and traced to the opposing capacitor poles at each end of the bleed-down resistor array. This allows connection to a multimeter and real-time monitoring of the capacitor voltage during electroporation and provides assurance the capacitor is safe.</p>
 <p>&nbsp;</p>
