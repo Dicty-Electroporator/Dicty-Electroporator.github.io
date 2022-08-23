@@ -70,10 +70,10 @@
    <tbody>
       <tr>
          <td>
-            <p>Power supply banana plug test leads 60 inch</p>
+            <p>Power supply banana plug test leads</p>
          </td>
          <td>
-            <p>1-2</p>
+            <p>2</p>
          </td>
          <td>
             <p>Mouser</p>
