@@ -13,7 +13,7 @@
 </h1>
 ![](figs/pic%202.png)
 <p>The pulse generator circuit features a soldered breadboard with higher power components. Assembly is straightforward and can be constructed by a beginner with access to soldering equipment. The cuvette chamber includes an enclosure with limited access to the power connectors as well as a clear removable lid. 3D design and print files are available on this page. Note that we chose a biodegradable and fire-resistant 3D print media. Other cost effective, readily available, and more durable print media are available. The system was tested and performs as efficiently as a commercial electroporator.</p>
-![](figs/pgen%202.2.png)
+![](figs/Figure%202.png)
 <p>&nbsp;</p>
 ![](figs/Gen2SwPlugsCloseup.jpg)
 <p>&nbsp;</p>
@@ -22,8 +22,7 @@
 <p>&nbsp;</p>
 <p>Components were fixed to the breadboard using the long leads of resistors as traces on the underside of the 8cm x 12cm padboard.</p>
 ![](figs/Placement.PNG)
-![](figs/Layout.png)
-![](figs/Traces.png)
+
 ![](figs/Layout2.png)
 ![](figs/bottom.png)
 <p>Trimmed resistor terminals were used to create any additional traces. This technique can easily be found on the internet. While the circuit diagram has remained unchanged, the new board layout accommodates the lack of premade traces found on solderless breadboards. In addition, two jumper wires were soldered to the component side at each end of the bleed-down resistor array. This modification allows the real-time monitoring of the capacitor voltage during electroporation and provides assurance the capacitor is safe. This is accomplished by connecting the 1kV digital multimeter to the jumper wires using alligator clips passed through newly drilled holes in the enclosure. The same digital multimeter used for performing a functions check may be used.</p>
