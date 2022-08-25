@@ -12,6 +12,9 @@
    <p><em>D. discoideum</em> Electroporation System</p>
 </h1>
 ![](figs/pic%202.png)
+<h2>
+   <p>Pulse Generator</p>
+</h2>
 <p>The pulse generator circuit features a soldered breadboard with high power components. Assembly is straightforward and can be constructed by a beginner with access to soldering equipment. The cuvette chamber includes an enclosure with limited access to the power connectors as well as a removable lid. The lid can be 3D printed or laser cut from a sheet of acrylic or other material. 3D design and print files are available on this page. We chose a biodegradable and fire-resistant 3D print media,  Polylactic acid (PLA). Other cost effective, readily available, and more durable print media are available. The system was tested and performs as efficiently as a commercial electroporator.</p>
 ![](figs/Figure%202.3.png)
 <p>&nbsp;</p>
