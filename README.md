@@ -47,7 +47,7 @@
 <p>FreeCAD Open Source IGES Design File: Available in Download Project top of page</p>
 <p>&nbsp;</p>
 <h2>
-   <p>Total bill of materials for the enhanced prototype</p>
+   <p>Bill of Materials</p>
 </h2>
 <table>
    <thead>
