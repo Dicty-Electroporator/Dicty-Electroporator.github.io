@@ -17,8 +17,7 @@
 </h2>
 <p>The pulse generator circuit features a soldered breadboard with high power components. Assembly is straightforward and can be constructed by a beginner with access to soldering equipment. The cuvette chamber includes an enclosure with limited access to the power connectors as well as a removable lid. The lid can be 3D printed or laser cut from a sheet of acrylic or other material. 3D design and print files are available on this page. We chose a biodegradable and fire-resistant 3D print media,  Polylactic acid (PLA). Other cost effective, readily available, and more durable print media are available. The system was tested and performs as efficiently as a commercial electroporator.</p>
 ![](figs/Figure%202.3.png)
-<p>&nbsp;</p>
-![](figs/Gen2SwPlugsCloseup.jpg)
+
 <p>&nbsp;</p>
 <p>2W-1M Ohm resistors were used for resistors R1-R2 and R9-R12. 8W-100k Ohm resistors were used for resistors R3-R8.</p>
 ![](figs/Top view2.jpg)
