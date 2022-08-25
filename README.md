@@ -28,7 +28,23 @@
 ![](figs/Layout.png)
 ![](figs/bottom.png)
 <p>Trimmed resistor terminals and solder were used to create traces. This layout accommodates the lack of premade traces found on solderless breadboards. In addition, banana jack connectors were soldered to the component side and traced to the opposing capacitor poles at each end of the bleed-down resistor array. This allows connection to a multimeter and real-time monitoring of the capacitor voltage during electroporation and provides assurance the capacitor is safe.</p>
-
+<h2>
+   <p>Enclosure</p>
+</h2>
+<p><strong>Description:&nbsp;</strong>We chose to purchase a commercially available plastic junction box to enclose our pulse generator circuit. A 13mm hole was drilled into the enclosure cover for the DPDT and 22mm holes were marked and drilled in the enclosure which provided a nice fit for the plastic NM connectors and pass-through cables.</p>
+![](figs/encl.jpg)
+<p><strong>Requires:</strong></p>
+<ul>
+   <li>Junction box&nbsp;<strong>x&nbsp;1</strong></li>
+</ul>
+<h4>
+   <p>Assembly instruction</p>
+</h4>
+![](figs/encl%201.jpeg)
+<p><strong>Step&nbsp;1.&nbsp;</strong>Drill three 22mm holes in any side of the enclosure. It might be helpful to label the holes as shown.</p>
+![](figs/encl%202.jpg)
+<p><strong>Step&nbsp;2.&nbsp;</strong>Drill 13mm hole in enclosure lid for switch mounting. Place the hole where hand-switching will be most comfortable.</p>
+<p>&nbsp;</p>
 <h2>
    <p>Cuvette Chamber</p>
 </h2>
@@ -396,23 +412,7 @@
 <p><strong>Step&nbsp;4.&nbsp;</strong>Plug 24-inch male-male banana test leads into digital multimeter and the other end into the female end of stackable banana jacks of Step 2.</p>
 <p><strong>Step&nbsp;5.&nbsp;</strong>Perform functions check: power on the digital multimeter, set to measure voltage (up to 1KV), and charge &amp; discharge the capacitor with the pulse generator switch at lower voltage (e.g. 75V). If the device is functioning correctly, when the discharge begins the multimeter will display approximately 75V and go to ~50V volts in about 30sec.</p>
 <p>&nbsp;</p>
-<h2>
-   <p>Enclosure</p>
-</h2>
-<p><strong>Description:&nbsp;</strong>We chose to purchase a commercially available plastic junction box to enclose our pulse generator circuit. A 13mm hole was drilled into the enclosure cover for the DPDT and 22mm holes were marked and drilled in the enclosure which provided a nice fit for the plastic NM connectors and pass-through cables.</p>
-![](figs/encl.jpg)
-<p><strong>Requires:</strong></p>
-<ul>
-   <li>Junction box&nbsp;<strong>x&nbsp;1</strong></li>
-</ul>
-<h4>
-   <p>Assembly instruction</p>
-</h4>
-![](figs/encl%201.jpeg)
-<p><strong>Step&nbsp;1.&nbsp;</strong>Drill three 22mm holes in any side of the enclosure. It might be helpful to label the holes as shown.</p>
-![](figs/encl%202.jpg)
-<p><strong>Step&nbsp;2.&nbsp;</strong>Drill 13mm hole in enclosure lid for switch mounting. Place the hole where hand-switching will be most comfortable.</p>
-<p>&nbsp;</p>
+
 <h2>
    <p>Pulse Generator</p>
 </h2>
