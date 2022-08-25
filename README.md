@@ -406,8 +406,8 @@
 <h4>
    <p>Assembly instruction</p>
 </h4>
-![](figs/encl%201.png)
-<p><strong>Step&nbsp;1.&nbsp;</strong>Drill two 22mm holes in any side of the enclosure with centers at 34mm from the exterior bottom and horizontally 46mm apart on center. It might be helpful to label one hole &ldquo;Power supply&rdquo; and the other &ldquo;Cuvette holder&rdquo;.</p>
+![](figs/encl%201.jpeg)
+<p><strong>Step&nbsp;1.&nbsp;</strong>Drill three 22mm holes in any side of the enclosure. It might be helpful to label the holes as shown.</p>
 ![](figs/encl%202.jpg)
 <p><strong>Step&nbsp;2.&nbsp;</strong>Drill 13mm hole in enclosure lid for switch mounting. Place the hole where hand-switching will be most comfortable.</p>
 <p>&nbsp;</p>
