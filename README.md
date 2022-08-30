@@ -45,6 +45,20 @@
 ![](figs/encl%202.jpg)
 <p><strong>Step&nbsp;2.&nbsp;</strong>Drill 13mm hole in enclosure lid for switch mounting. Place the hole where hand-switching will be most comfortable.</p>
 <p>&nbsp;</p>
+<h3>
+   <p>Switch wiring</p>
+</h3>
+<p>&nbsp;</p>
+![](figs/pgen%20assmb%201.png)
+<p><strong>Step&nbsp;1.&nbsp;</strong>Cut 4 pieces of 18 AWG wire (for the switch) to 30cm lengths and strip approx. 5mm of bare wire from each end. Crimp one end of each wire to a ring terminal.</p>
+<p>&nbsp;</p>
+![](figs/pgen%20assmb%202.1.jpg)
+![](figs/pgen%20assmb%202.2.png)
+<p><strong>Step&nbsp;2.&nbsp;</strong>Attach ring terminals (with wire from step 1) to terminals 2, 3, 4, and 5 of the DPDT switch. Install switch into hole drilled into lid of case.</p>
+<p>&nbsp;</p>
+![](figs/pgen%20assmb%203.jpg)
+<p><strong>Step&nbsp;3.&nbsp;</strong>Using the 4 pieces of 18 AWG wire with ring terminals from step 1, connect switch terminals 2 and 3 to the outboard ports of one terminal block and 4 and 5 to the outboard ports of another terminal block by inserting paired wires into outside wire cages of terminal blocks, then tighten terminal block screws.</p>
+<p>&nbsp;</p>
 <h2>
    <p>Cuvette Chamber</p>
 </h2>
@@ -426,20 +440,7 @@
    </li>
 </ul>
 <p>&nbsp;</p>
-<h3>
-   <p>Assembly instruction</p>
-</h3>
-<p>&nbsp;</p>
-![](figs/pgen%20assmb%201.png)
-<p><strong>Step&nbsp;1.&nbsp;</strong>Cut 4 pieces of 18 AWG wire (for the switch) to 30cm lengths and strip approx. 5mm of bare wire from each end. Crimp one end of each wire to a ring terminal.</p>
-<p>&nbsp;</p>
-![](figs/pgen%20assmb%202.1.jpg)
-![](figs/pgen%20assmb%202.2.png)
-<p><strong>Step&nbsp;2.&nbsp;</strong>Attach ring terminals (with wire from step 1) to terminals 2, 3, 4, and 5 of the DPDT switch. Install switch into hole drilled into lid of case.</p>
-<p>&nbsp;</p>
-![](figs/pgen%20assmb%203.jpg)
-<p><strong>Step&nbsp;3.&nbsp;</strong>Using the 4 pieces of 18 AWG wire with ring terminals from step 1, connect switch terminals 2 and 3 to the outboard ports of one terminal block and 4 and 5 to the outboard ports of another terminal block by inserting paired wires into outside wire cages of terminal blocks, then tighten terminal block screws.</p>
-<p>&nbsp;</p>
+
 ![](figs/pgen%20assmb%204.jpg)
 <p><strong>Step&nbsp;4.&nbsp;</strong>Clip resistor pins and bend at 90-degree angle to fit into breadboard terminals.</p>
 <p>&nbsp;</p>
