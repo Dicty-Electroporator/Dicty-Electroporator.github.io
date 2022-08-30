@@ -419,7 +419,7 @@
    <p>Pulse Generator</p>
 </h2>
 <p><strong>Description:&nbsp;</strong>Components and configurations of the electrical circuit are described here. For all connections, refer to the circuit diagram and photos of the assembled circuit.</p>
-![](figs/pgen%201.png)
+![](figs/pgen%20assemb%2011.png)
 ![](figs/Figure%202.3.png)
 <p><strong>Requires:</strong></p>
 <ul>
@@ -454,7 +454,7 @@
 ![](figs/pgen%20assemb%2010.2.png)
 <p><strong>Step&nbsp;10.&nbsp;</strong>Cut 1 red and 1 black 60 in. test lead in half. Strip cut ends to leave approximately 5mm of bare wire. It might be helpful to tape the two pairs of one red and one black wire together every few centimeters. Pass stripped wire ends through NM plastic connectors about 10cm. Connect terminal blocks to the stripped ends by inserting paired wires into outside wire cages of terminal blocks, then tighten terminal block screws. Push NM plastic connectors into the cable pass-through holes of the enclosure.</p>
 <p>&nbsp;</p>
-![](figs/pgen%20assemb%2011.png)
+
 <p><strong>Step&nbsp;11.&nbsp;</strong>Pull the terminal block ends of the power supply and cuvette holder cables further through the pass-through holes with only sufficient play to insert the terminal blocks into the appropriate places on the breadboards.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assemb%2012.png)
