@@ -204,13 +204,13 @@
       </tr>
       <tr>
          <td>
-            <p>Bio-Rad Model 3000xi Computer Controlled Electrophoresis Power Supply</p>
+            <p>Bio-Rad Model 3000xi Computer Controlled Electrophoresis Power Supply or equivalent</p>
          </td>
          <td>
             <p>1</p>
          </td>
          <td>
-            <p>ebay</p>
+            <p>ebay or other supplier of used scientific equipment</p>
          </td>
          <td>
             <p>    </p>
@@ -403,6 +403,23 @@
          </td>
          <td>
             <p><a href="https://www.digikey.com/en/products/detail/cliff-electronic-components-ltd/FCR7350R/13588710?utm_adgroup=Banana%20and%20Tip%20Connectors%20-%20Jacks%2C%20Plugs&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Connectors%2C%20Interconnects_NEW&utm_term=&utm_content=Banana%20and%20Tip%20Connectors%20-%20Jacks%2C%20Plugs&gclid=Cj0KCQjwxIOXBhCrARIsAL1QFCaS0i6JGg6UL4RwvlMztOWSG87LscZ9CT0JJhaYllfI620GVLvLvh8aAoXKEALw_wcB">www.digikey.com</a></p>
+         </td>
+         </tr>
+            <tr>
+         <td>
+            <p>ISO-3864 Warning Symbol Labels - High Voltage</p>
+         </td>
+         <td>
+            <p>1x5</p>
+         </td>
+         <td>
+            <p>emedco</p>
+         </td>
+         <td>
+            <p>SYM28R71VAD</p>
+         </td>
+         <td>
+            <p><a href="https://www.emedco.com/iso-warning-symbol-labels-high-voltage-sym28.html?utm_campaign=PC-02-Labels_CatchAllSmartShopping_Emedco_PLA_NB_C_Google_US&utm_source=google&utm_medium=cpc&utm_term=&matchtype=&device=c&adgroupid=Catch+All+-+Old+Hierarchy&gclid=CjwKCAjwu5yYBhAjEiwAKXk_eOuXOPUcWMaTqpkfMpD0W6rF3nKtdNauUNZsvvMGXhg1-YWTsYK_4RoCVK8QAvD_BwE&gclsrc=aw.ds#SYM28R71VAD">www.emedco.com</a></p>
          </td>
          </tr>
    </tbody>
