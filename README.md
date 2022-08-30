@@ -412,20 +412,8 @@
 <h1>
    <p>Modular Prototype</p>
 </h1>
-![](figs/pic%201.png)
-<p><strong>Requires:</strong></p>
-<ul>
-   <li>&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Cuvette Holder&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Multimeter&nbsp;<strong>x&nbsp;1,&nbsp;</strong>1KV DC Power supply (e.g., Bio-Rad PowerPac 1000+)&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Red banana plug test lead - 24 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Black banana plug test lead - 24 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Horizontal Gel Electrophoresis System&nbsp;<strong>x&nbsp;1</strong></li>
-</ul>
-<h3>
-   <p>Assembly instruction</p>
-</h3>
-<p><strong>Step&nbsp;1.&nbsp;</strong>Plug electroporator power supply leads into gel electrophoresis lid.</p>
-<p><strong>Step&nbsp;2.&nbsp;</strong>Plug electrophoresis lid leads into power supply.</p>
-<p><strong>Step&nbsp;3.&nbsp;</strong>Plug electroporator cuvette leads into cuvette holder.</p>
-<p><strong>Step&nbsp;4.&nbsp;</strong>Plug 24-inch male-male banana test leads into digital multimeter and the other end into the female end of stackable banana jacks of Step 2.</p>
-<p><strong>Step&nbsp;5.&nbsp;</strong>Perform functions check: power on the digital multimeter, set to measure voltage (up to 1KV), and charge &amp; discharge the capacitor with the pulse generator switch at lower voltage (e.g. 75V). If the device is functioning correctly, when the discharge begins the multimeter will display approximately 75V and go to ~50V volts in about 30sec.</p>
-<p>&nbsp;</p>
+
+
 
 <h2>
    <p>Pulse Generator</p>
