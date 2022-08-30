@@ -463,25 +463,6 @@
 ![](figs/pgen%20assemb%2013.png)
 <p><strong>Step&nbsp;13.&nbsp;</strong>Attach enclosure cover.</p>
 <p>&nbsp;</p>
-<h2>
-   <p>Cuvette Holder</p>
-</h2>
-<p><strong>Description:&nbsp;</strong>The cuvette holder provides the delivery vehicle for the electric field that causes electroporation. It is also notable that the cuvette holder was designed to keep inward pressure on the plug ends that contact the cuvette. It was an important consideration in our design to provide hands-free electroporation and the built-in spring-like nature of the resulting connection ensures constant contact - even when like charges build up on each plug and its corresponding cuvette contact - a force that opposes contact. It is also notable that we chose stackable banana plugs so that we could tandem a 1,000V multimeter to the cuvette holder - especially useful during pre-electroporation functions check.</p>
-<p><strong>Requires:</strong></p>
-<ul>
-   <li>3D printed cuvette holder&nbsp;<strong>x&nbsp;1</strong></li>
-</ul>
-<h4>
-   <p>Assembly instruction</p>
-</h4>
-![](figs/cuv%201.png)
-![](figs/cuv%202.jpg)
-![](figs/cuv%203.png)
-<p><strong>Step&nbsp;1.&nbsp;</strong>3D print a Cuvette holder in PLA semi-hollow and without support. A print file is available below in STL format. An editable design file in DWG format is also available below. The DWG file was created in AutoCAD student edition which is free for students. The DWG file is also editable in several open-source CAD packages including DraftSight, Autodesk 123D Design, nanoCAD, AutoCAD Mobile and DoubleCAD XT. Another open-source CAD package we have accommodated is FreeCAD, which can edit IGES files. An IGES design file is available through the link Download Project at the top of this page.</p>
-<p><strong>Print File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.stl">Cuvette Holder.stl</a></strong></p>
-<p><strong>CAD Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.dwg">Cuvette Holder.dwg</a></strong></p>
-<p>FreeCAD Open Source IGES Design File:&nbsp;Available in Download Project top of page</p>
-<p>&nbsp;</p>
 
 <h2>
    <p>Bill of Materials</p>
