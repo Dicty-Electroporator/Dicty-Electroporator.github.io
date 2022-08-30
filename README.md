@@ -482,77 +482,9 @@
 <p><strong>CAD Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Cuvette%20Holder.dwg">Cuvette Holder.dwg</a></strong></p>
 <p>FreeCAD Open Source IGES Design File:&nbsp;Available in Download Project top of page</p>
 <p>&nbsp;</p>
+
 <h2>
-   <p>Authors</p>
-</h2>
-<table>
-   <thead>
-      <tr>
-         <td>
-            <p><strong>Name</strong></p>
-         </td>
-         <td>
-            <p><strong>E-mail</strong></p>
-         </td>
-         <td>
-            <p><strong>Affiliation</strong></p>
-         </td>
-         <td>&nbsp;</td>
-      </tr>
-   </thead>
-   <tbody>
-      <tr>
-         <td>
-            <p>Michael Cauchy</p>
-         </td>
-         <td>
-            <p>mcauchy@oswego.edu</p>
-         </td>
-         <td>
-            <p>State University of New York at Oswego</p>
-         </td>
-         <td>&nbsp;</td>
-      </tr>
-      <tr>
-         <td>
-            <p>Ali A. Khan</p>
-         </td>
-         <td>
-            <p>akhan3@oswego.edu</p>
-         </td>
-         <td>
-            <p>State University of New York at Oswego</p>
-         </td>
-         <td>&nbsp;</td>
-      </tr>
-      <tr>
-         <td>
-            <p>Yulia Artemenko</p>
-         </td>
-         <td>
-            <p>yulia.artemenko@oswego.edu</p>
-         </td>
-         <td>
-            <p>State University of New York at Oswego</p>
-         </td>
-         <td>&nbsp;</td>
-      </tr>
-      <tr>
-         <td>
-            <p>David A. Dunn</p>
-         </td>
-         <td>
-            <p>david.dunn@oswego.edu</p>
-         </td>
-         <td>
-            <p>State University of New York at Oswego</p>
-         </td>
-         <td>&nbsp;</td>
-      </tr>
-   </tbody>
-</table>
-<h2>
-   <p>Total bill of materials for this project</p>
+   <p>Bill of Materials</p>
 </h2>
 <table>
    <thead>
@@ -921,6 +853,75 @@
          <td>
             <p><a href="https://www.fishersci.com/shop/products/fisherbiotech-horizontal-electrophoresis-systems-minigel-system-7-x-10cm-gel-size/fbsb710">www.fishersci.com</a></p>
          </td>
+      </tr>
+   </tbody>
+</table>
+<h2>
+   <p>Authors</p>
+</h2>
+<table>
+   <thead>
+      <tr>
+         <td>
+            <p><strong>Name</strong></p>
+         </td>
+         <td>
+            <p><strong>E-mail</strong></p>
+         </td>
+         <td>
+            <p><strong>Affiliation</strong></p>
+         </td>
+         <td>&nbsp;</td>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>
+            <p>Michael Cauchy</p>
+         </td>
+         <td>
+            <p>mcauchy@oswego.edu</p>
+         </td>
+         <td>
+            <p>State University of New York at Oswego</p>
+         </td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <td>
+            <p>Ali A. Khan</p>
+         </td>
+         <td>
+            <p>akhan3@oswego.edu</p>
+         </td>
+         <td>
+            <p>State University of New York at Oswego</p>
+         </td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <td>
+            <p>Yulia Artemenko</p>
+         </td>
+         <td>
+            <p>yulia.artemenko@oswego.edu</p>
+         </td>
+         <td>
+            <p>State University of New York at Oswego</p>
+         </td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <td>
+            <p>David A. Dunn</p>
+         </td>
+         <td>
+            <p>david.dunn@oswego.edu</p>
+         </td>
+         <td>
+            <p>State University of New York at Oswego</p>
+         </td>
+         <td>&nbsp;</td>
       </tr>
    </tbody>
 </table>
