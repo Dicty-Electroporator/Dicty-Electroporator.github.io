@@ -31,7 +31,7 @@
 <h2>
    <p>Enclosure</p>
 </h2>
-<p><strong>Description:&nbsp;</strong>We chose to purchase a commercially available plastic junction box to enclose our pulse generator circuit. A 13mm hole was drilled into the enclosure cover for the DPDT and 22mm holes were marked and drilled in the enclosure which provided a nice fit for the plastic NM connectors and pass-through cables.</p>
+<p>We chose a commercially available plastic junction box to enclose our pulse generator circuit. A 13mm hole was drilled into the enclosure cover for the DPDT and 22mm holes were marked and drilled in the enclosure which provided a nice fit for the plastic NM connectors and pass-through cables.</p>
 ![](figs/encl.jpg)
 <p><strong>Requires:</strong></p>
 <ul>
