@@ -40,7 +40,7 @@
 ![](figs/encl%201.jpeg)
 <p>Drill three 22mm holes in any side of the enclosure. Label the holes as shown. DMM above refers to digital multimeter.</p>
 ![](figs/encl%202.jpg)
-<p><strong>Step&nbsp;2.&nbsp;</strong>Drill 13mm hole in enclosure lid for switch mounting. Place the hole where hand-switching will be most comfortable.</p>
+<p>Drill 13mm hole in enclosure lid for switch mounting. Place the hole where hand-switching will be most comfortable.</p>
 <p>&nbsp;</p>
 <h3>
    <p>Switch wiring</p>
