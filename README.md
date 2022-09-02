@@ -59,7 +59,7 @@
 <h2>
    <p>Cuvette Chamber</p>
 </h2>
-<p>The cuvette chamber provides the delivery vehicle for the electric field that causes electroporation. The cuvette chamber was designed to keep inward pressure on the plug ends that contact the cuvette. It was an important consideration in our design to provide hands-free electroporation. The built-in spring-like nature of the resulting connection ensures constant contact when like charges build up on each plug and its corresponding cuvette contact. It is also notable that we chose stackable banana plugs so that we could tandem a 1,000V multimeter to the cuvette holder; especially useful during pre-electroporation functions check.</p>
+<p>The cuvette chamber provides the delivery vehicle for the electric field that causes electroporation. The cuvette chamber was designed to keep inward pressure on the plug ends that contact the cuvette. Hands-free electroporation was an important consideration in our design. The built-in spring-like nature of the resulting connection ensures constant contact when like charges build up on each plug and its corresponding cuvette contact. It is also notable that we chose stackable banana plugs so that we could tandem a 1,000V multimeter to the cuvette holder; especially useful during pre-electroporation functions check.</p>
 
 <p>The cuvette chamber has several safety features. It is enclosed in a four-sided box with a removable lid that can be laser cut from a clear Poly acrylic sheet or 3D printed. Collars around lead connectors provide protection from shock exposure. Design and print files are included below. The chamber can be printed with various levels of fill; 15% fill is shown here and functioned well in our hands.</p>
 ![](figs/Gen2CHcollars.jpg)
