@@ -51,7 +51,7 @@
 <p>&nbsp;</p>
 ![](figs/pgen%20assmb%202.1.jpg)
 ![](figs/pgen%20assmb%202.2.png)
-<p><strong>Step&nbsp;2.&nbsp;</strong>Attach ring terminals (with wire from step 1) to terminals 2, 3, 4, and 5 of the DPDT switch. Install switch into hole drilled into lid of case.</p>
+<p>Attach ring terminals (with wire from step 1) to terminals 2, 3, 4, and 5 of the DPDT switch. Install switch into hole drilled into lid of case.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assmb%203.jpg)
 <p><strong>Step&nbsp;3.&nbsp;</strong>Using the 4 pieces of 18 AWG wire with ring terminals from step 1, connect switch terminals 2 and 3 to the outboard ports of one terminal block and 4 and 5 to the outboard ports of another terminal block by inserting paired wires into outside wire cages of terminal blocks, then tighten terminal block screws.</p>
