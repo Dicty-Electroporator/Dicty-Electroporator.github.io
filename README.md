@@ -47,7 +47,7 @@
 </h3>
 <p>&nbsp;</p>
 ![](figs/pgen%20assmb%201.png)
-<p><strong>Step&nbsp;1.&nbsp;</strong>Cut 4 pieces of 18 AWG wire (for the switch) to 30cm lengths and strip approx. 5mm of bare wire from each end. Crimp one end of each wire to a ring terminal.</p>
+<p>Cut 4 pieces of 18 AWG wire (for the switch) to 30cm lengths and strip approx. 5mm of bare wire from each end. Crimp one end of each wire to a ring terminal.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assmb%202.1.jpg)
 ![](figs/pgen%20assmb%202.2.png)
