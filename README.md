@@ -201,7 +201,7 @@
       </tr>
       <tr>
          <td>
-            <p>Bio-Rad Model 3000xi Computer Controlled Electrophoresis Power Supply or equivalent</p>
+            <p>Bio-Rad Model 3000xi Computer Controlled Electrophoresis Power Supply (or similar capable of generating at least 1KV DC)</p>
          </td>
          <td>
             <p>1</p>
