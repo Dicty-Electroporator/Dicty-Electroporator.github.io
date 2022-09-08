@@ -375,7 +375,7 @@
             <p>1</p>
          </td>
          <td>
-            <p>CEN-TECH</p>
+            <p>CEN-TECH (or similar)</p>
          </td>
          <td>
             <p>61593/P37772</p>
