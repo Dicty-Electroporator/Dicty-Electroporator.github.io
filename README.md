@@ -66,12 +66,12 @@
 ![](figs/Gen2CHlid.jpg)
 <p><strong>Print File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/Gen-2.1-with-edits/Enhanced%20Cuvette%20Chamber%203DPrintSTL.stl">Cuvette Chamber.stl</a></strong></p>
 <p><strong>CAD Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/Gen-2.1-with-edits/Enhanced%20Cuvette%20Chamber%20CAD.dwg">Cuvette Chamber CAD.dwg</a></strong></p>
-<p><strong>FreeCAD IGES File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/Gen-2.1-with-edits/Enhanced%20Cuvette%20Chamber%20FreeCAD.iges">Cuvette Chamber CAD.dwg</a></strong></p>
+<p><strong>FreeCAD IGES File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/Gen-2.1-with-edits/Enhanced%20Cuvette%20Chamber%20FreeCAD.iges">Cuvette Chamber FreeCAD.iges</a></strong></p>
 <p><strong>Chamber Lid Laser Cut File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/Gen-2.1-with-edits/Enclosure%20Lid%20LaserCutSVG.svg">Chamber Lid.SVG</a></strong></p>
 <p><strong>Chamber Lid Print File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/Gen-2.1-with-edits/Enclosure%20Lid%20STL.stl">Chamber Lid STL.stl</a></strong></p>
 <p><strong>Chamber Lid CAD Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/Gen-2.1-with-edits/Enclosure%20Lid%20CAD.dwg">Chamber Lid CAD.dwg</a></strong></p>
 
-<p><strong>Chamber Lid FreeCAD IGES File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/Gen-2.1-with-edits/Enclosure Lid FreeCAD.iges">Chamber%20Lid%20FreeCAD.iges</a></strong></p>
+<p><strong>Chamber Lid FreeCAD IGES File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/Gen-2.1-with-edits/Enclosure%20Lid%20FreeCAD.iges">Chamber Lid FreeCAD.iges</a></strong></p>
 <p>&nbsp;</p>
 <h2>
    <p>Bill of Materials</p>
