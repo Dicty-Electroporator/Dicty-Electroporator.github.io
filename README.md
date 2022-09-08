@@ -441,7 +441,7 @@
 <p>Connect two 1M Ohm - 1/2W resistors (R1 and R2) in series into breadboards using jumper wires as needed to form connections.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assmb%207.png)
-<p>Connect four 1M Ohm - 1/2W resistors (R9-R12) in series. A short jumper wire is also placed on the board as shown (lower right section of breadboard) that will become a link between terminal blocks from steps 2, 3, 9 and 10.</p>
+<p>Connect four 1MOhm - 1/2W resistors (R9-R12) in series. A short jumper wire is also placed on the board as shown (upper left section of breadboard) that will become a link between the terminal blocks connecting switch position four and the cuvette chamber.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assmb%208.1.png)
 ![](figs/pgen%20assmb%208.2.jpg)
