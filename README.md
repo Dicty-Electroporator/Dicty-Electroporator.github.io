@@ -446,7 +446,7 @@
 ![](figs/pgen%20assmb%208.1.png)
 ![](figs/pgen%20assmb%208.2.jpg)
 ![](figs/pgen%20assemb%208.3.jpg)
-<p>Ensure the 25 &muF - 1,300 V capacitor is not charged before handling by measuring voltage across the terminals using the multimeter. Connect three 20cm flexible jumper wires to each pole of the capacitor. Note that two leads from each capacitor pole are present. Wire terminals can be crimped around capacitor leads or soldered for establishing a more permanent connection. Attach capacitor leads to the breadboard per circuit diagram and accompanying photos.</p>
+<p>Ensure the 25 &#956F - 1,300 V capacitor is not charged before handling by measuring voltage across the terminals using the multimeter. Connect three 20cm flexible jumper wires to each pole of the capacitor. Note that two leads from each capacitor pole are present. Wire terminals can be crimped around capacitor leads or soldered for establishing a more permanent connection. Attach capacitor leads to the breadboard per circuit diagram and accompanying photos.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assemb%209.1.jpg)
 ![](figs/pgen%20assemb%209.2.jpg)
