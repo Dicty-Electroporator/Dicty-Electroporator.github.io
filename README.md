@@ -71,7 +71,7 @@
 <p><strong>Chamber Lid Print File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/Gen-2.1-with-edits/Enclosure%20Lid%20STL.stl">Chamber Lid STL.stl</a></strong></p>
 <p><strong>Chamber Lid CAD Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/Gen-2.1-with-edits/Enclosure%20Lid%20CAD.dwg">Chamber Lid CAD.dwg</a></strong></p>
 
-<p>FreeCAD Open Source IGES Design File: Available in Download Project top of page</p>
+<p><strong>Chamber Lid FreeCAD IGES File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/Gen-2.1-with-edits/Enclosure Lid FreeCAD.iges">Chamber%20Lid%20FreeCAD.iges</a></strong></p>
 <p>&nbsp;</p>
 <h2>
    <p>Bill of Materials</p>
