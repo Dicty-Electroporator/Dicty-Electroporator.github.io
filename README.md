@@ -19,7 +19,7 @@
 ![](figs/Figure%202.3.png)
 
 
-<p>2W-1MOhm resistors were used for resistors R1-R2 and R9-R12. 8W-100kOhm resistors were used for resistors R3-R8.</p>
+<p>2W (Watt)-1MΩ (Ohm) resistors were used for resistors R1-R2 and R9-R12. 8W-100kΩ resistors were used for resistors R3-R8.</p>
 ![](figs/Top view2.jpg)
 <p>&nbsp;</p>
 <p>Components were fixed to the breadboard using the long leads of resistors as traces on the underside of the 8cm x 12cm padboard.</p>
@@ -167,7 +167,7 @@
       </tr>
       <tr>
          <td>
-            <p>Resistors - 8W-100k Ohm</p>
+            <p>Resistors - 8W-100kΩ</p>
          </td>
          <td>
             <p>6</p>
@@ -184,7 +184,7 @@
       </tr>
       <tr>
          <td>
-            <p>Resistors - 2W-1M Ohm</p>
+            <p>Resistors - 2W-1MΩ</p>
          </td>
          <td>
             <p>6</p>
@@ -270,7 +270,7 @@
 
       <tr>
          <td>
-            <p>Capacitor - 25microF - 1,300V</p>
+            <p>Capacitor - 25μF - 1,300V</p>
          </td>
          <td>
             <p>1</p>
@@ -435,13 +435,13 @@
 <p>Clip resistor pins and bend at 90-degree angle to fit into breadboard terminals.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assmb%205.jpg)
-<p>Connect six 100K Ohm - 2W resistors (R3-R8) in parallel into breadboards using jumper wires as needed to form connections.</p>
+<p>Connect six 100KΩ - 2W resistors (R3-R8) in parallel into breadboards using jumper wires as needed to form connections.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assmb%206.png)
-<p>Connect two 1M Ohm - 1/2W resistors (R1 and R2) in series into breadboards using jumper wires as needed to form connections.</p>
+<p>Connect two 1MΩ - 1/2W resistors (R1 and R2) in series into breadboards using jumper wires as needed to form connections.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assmb%207.png)
-<p>Connect four 1MOhm - 1/2W resistors (R9-R12) in series. A short jumper wire is also placed on the board as shown (upper left section of breadboard) that will become a link between the terminal blocks connecting switch position four and the cuvette chamber.</p>
+<p>Connect four 1MΩ - 1/2W resistors (R9-R12) in series. A short jumper wire is also placed on the board as shown (upper left section of breadboard) that will become a link between the terminal blocks connecting switch position four and the cuvette chamber.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assmb%208.1.png)
 ![](figs/pgen%20assmb%208.2.jpg)
@@ -577,7 +577,7 @@
       </tr>
       <tr>
          <td>
-            <p>Capacitor - 25microF - 1,300V</p>
+            <p>Capacitor - 25μF - 1,300V</p>
          </td>
          <td>
             <p>1</p>
@@ -645,7 +645,7 @@
       </tr>
       <tr>
          <td>
-            <p>Resistor - 1M Ohm - 500mW</p>
+            <p>Resistor - 1MΩ - 500mW</p>
          </td>
          <td>
             <p>6</p>
@@ -662,7 +662,7 @@
       </tr>
       <tr>
          <td>
-            <p>Resistor - 100k Ohm - 2W</p>
+            <p>Resistor - 100kΩ - 2W</p>
          </td>
          <td>
             <p>6</p>
