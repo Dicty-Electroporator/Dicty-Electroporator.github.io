@@ -429,16 +429,10 @@
 <p>Components and configurations of the electrical circuit are described here. For all connections, refer to the circuit diagram and photos of the assembled circuit.</p>
 ![](figs/pgen%20assemb%2011.png)
 ![](figs/Figure%202.3.png)
-<p><strong>Requires:</strong></p>
-<ul>
-   <li>400 Point solderless breadboard&nbsp;<strong>x&nbsp;2,&nbsp;</strong>24AWG Male-Male fixed length jumper wires&nbsp;<strong>x&nbsp;5,&nbsp;</strong>Test Lead Wire 25 ft. red&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Test Lead Wire 25 ft. black&nbsp;<strong>x&nbsp;1,&nbsp;</strong>26AWG Male-Male flexible jumper wires&nbsp;<strong>x&nbsp;9,&nbsp;</strong>Capacitor - 25microF 1.3kV&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Red banana plug test lead - 60 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Black banana plug test lead - 60 inch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Ring Terminals&nbsp;<strong>x&nbsp;4,&nbsp;</strong>Resistor - 1M Ohm 1/2W&nbsp;<strong>x&nbsp;6,&nbsp;</strong>Resistor - 100k Ohm 2W&nbsp;<strong>x&nbsp;6,&nbsp;</strong>14-26 AWG 3-Position Screw Terminal Block&nbsp;<strong>x&nbsp;4,&nbsp;</strong>15A AC DPDT toggle switch&nbsp;<strong>x&nbsp;1,&nbsp;</strong>Plastic NM Connector&nbsp;<strong>x&nbsp;2,&nbsp;</strong>Enclosure&nbsp;
-      <strong>x&nbsp;1</strong>
-   </li>
-</ul>
-<p>&nbsp;</p>
+
 
 ![](figs/pgen%20assmb%204.jpg)
-<p><strong>Step&nbsp;1.&nbsp;</strong>Clip resistor pins and bend at 90-degree angle to fit into breadboard terminals.</p>
+<p>Clip resistor pins and bend at 90-degree angle to fit into breadboard terminals.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assmb%205.jpg)
 <p><strong>Step&nbsp;2.&nbsp;</strong>Connect six 100K Ohm - 2W resistors (R3-R8) in parallel into breadboards using jumper wires as needed to form connections.</p>
