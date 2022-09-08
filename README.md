@@ -454,13 +454,13 @@
 <p>&nbsp;</p>
 ![](figs/pgen%20assemb%2010.1.jpg)
 ![](figs/pgen%20assemb%2010.2.png)
-<p>Cut 1 red and 1 black 60 in. test lead in half. Strip cut ends to leave approximately 5mm of bare wire. It might be helpful to tape the two pairs of one red and one black wire together every few centimeters. Pass stripped wire ends through NM plastic connectors about 10cm. Connect terminal blocks to the stripped ends by inserting paired wires into outside wire cages of terminal blocks, then tighten terminal block screws. Push NM plastic connectors into the cable pass-through holes of the enclosure.</p>
+<p>Cut one red and one black 60 in. test lead in half. Strip ends to leave approximately 5mm of bare wire. It might be helpful to tape the two pairs of one red and one black wire together every few centimeters. Pass stripped wire ends through NM plastic connectors about 10cm. Connect terminal blocks to the stripped ends by inserting paired wires into outside wire cages of terminal blocks, then tighten terminal block screws. Push NM plastic connectors into the cable pass-through holes of the enclosure (note that only two 22mm holes need to be made in the modular pulse generator enclosure, compared to three in the standard pulse generator enclosure).</p>
 <p>&nbsp;</p>
 
 <p>Pull the terminal block ends of the power supply and cuvette holder cables further through the pass-through holes with only sufficient play to insert the terminal blocks into the appropriate places on the breadboards.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assemb%2012.png)
-<p>Adhere the breadboards and capacitor to the inside base of the enclosure. While we used 2-sided tape, glue could be used for a more permanent solution. Connect power supply and cuvette holder terminal blocks to breadboard.</p>
+<p>Adhere the breadboards and capacitor to the inside base of the enclosure. While we used 2-sided tape, glue could be used for a more permanent solution. Connect power supply and cuvette holder terminal blocks to the breadboard.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assemb%2013.png)
 <p>Attach enclosure cover.</p>
