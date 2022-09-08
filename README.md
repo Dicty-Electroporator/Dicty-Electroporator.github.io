@@ -450,7 +450,7 @@
 <p>&nbsp;</p>
 ![](figs/pgen%20assemb%209.1.jpg)
 ![](figs/pgen%20assemb%209.2.jpg)
-<p>Connect terminal blocks from switch leads to breadboard (see step 3).</p>
+<p>Connect terminal blocks from switch leads to the breadboard.</p>
 <p>&nbsp;</p>
 ![](figs/pgen%20assemb%2010.1.jpg)
 ![](figs/pgen%20assemb%2010.2.png)
