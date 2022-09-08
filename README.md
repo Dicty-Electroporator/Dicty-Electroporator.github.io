@@ -64,12 +64,12 @@
 <p>The cuvette chamber has several safety features. It is enclosed in a four-sided box with a removable lid that can be laser cut from a clear Poly acrylic sheet or 3D printed. Collars around lead connectors provide protection from shock exposure. Design and print files are included below. The chamber can be printed with various levels of fill; 15% fill is shown here and functioned well in our hands.</p>
 ![](figs/Gen2CHcollars.jpg)
 ![](figs/Gen2CHlid.jpg)
-<p><strong>Print File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enhanced%20Cuvette%20Chamber%203DPrintSTL.stl">Cuvette Chamber.stl</a></strong></p>
-<p><strong>CAD Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enhanced%20Cuvette%20Chamber%20CAD.dwg">Cuvette Chamber CAD.dwg</a></strong></p>
+<p><strong>Print File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/Gen-2.1-with-edits/Enhanced%20Cuvette%20Chamber%203DPrintSTL.stl">Cuvette Chamber.stl</a></strong></p>
+<p><strong>CAD Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/Gen-2.1-with-edits/Enhanced%20Cuvette%20Chamber%20CAD.dwg">Cuvette Chamber CAD.dwg</a></strong></p>
 <p>FreeCAD Open Source IGES Design File: Available in Download Project top of page</p>
-<p><strong>Chamber Lid Laser Cut File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enclosure%20Lid%20LaserCutSVG.svg">Chamber Lid.SVG</a></strong></p>
-<p><strong>Chamber Lid Print File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enclosure%20Lid%20STL.stl">Chamber Lid STL.stl</a></strong></p>
-<p><strong>Chamber Lid CAD Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/master/Enclosure%20Lid%20CAD.dwg">Chamber Lid CAD.dwg</a></strong></p>
+<p><strong>Chamber Lid Laser Cut File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/Gen-2.1-with-edits/Enclosure%20Lid%20LaserCutSVG.svg">Chamber Lid.SVG</a></strong></p>
+<p><strong>Chamber Lid Print File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/Gen-2.1-with-edits/Enclosure%20Lid%20STL.stl">Chamber Lid STL.stl</a></strong></p>
+<p><strong>Chamber Lid CAD Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/Gen-2.1-with-edits/Enclosure%20Lid%20CAD.dwg">Chamber Lid CAD.dwg</a></strong></p>
 
 <p>FreeCAD Open Source IGES Design File: Available in Download Project top of page</p>
 <p>&nbsp;</p>
