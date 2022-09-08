@@ -369,7 +369,7 @@
       </tr>
       <tr>
          <td>
-            <p>Multimeter</p>
+            <p>1 kV Multimeter</p>
          </td>
          <td>
             <p>1</p>
