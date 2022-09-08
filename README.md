@@ -424,14 +424,8 @@
 
 <p>&nbsp;</p> 
 <h1>
-   <p>Modular Prototype</p>
+   <p>Modular Pulse Generator</p>
 </h1>
-
-
-
-<h2>
-   <p>Pulse Generator</p>
-</h2>
 <p><strong>Description:&nbsp;</strong>Components and configurations of the electrical circuit are described here. For all connections, refer to the circuit diagram and photos of the assembled circuit.</p>
 ![](figs/pgen%20assemb%2011.png)
 ![](figs/Figure%202.3.png)
