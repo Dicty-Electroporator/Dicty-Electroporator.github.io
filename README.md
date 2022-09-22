@@ -73,7 +73,7 @@
 <p><strong>Chamber Lid CAD Design File:&nbsp;<a href="https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/raw/Gen-2.1-with-edits/Enclosure%20Lid%20CAD.dwg">Chamber Lid CAD.dwg</a></strong></p>
 
 <p><strong>Chamber Lid IGES File:&nbsp;<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Dicty-Electroporator/Dicty-Electroporator.github.io/blob/Gen-2.1-with-edits/Dictyostelium%20discoideum%20Electroporator/Enhanced%20Cuvette%20Chamber%20FreeCAD.iges">Chamber Lid.iges</a></strong></p>
-<p>Note: IGES drawing files save vector image data to transfer information between different CAD applications. Graphics acceleration may have to be diisabled in order for the some open source CAD software to load.</p>
+<p>Note: IGES drawing files save vector image data to transfer information between different CAD applications. Graphics acceleration may have to be disabled in order for some open source CAD software to load.</p>
 <p>&nbsp;</p>
 <h2>
    <p>Bill of Materials</p>
